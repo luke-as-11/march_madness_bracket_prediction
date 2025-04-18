@@ -7,3 +7,5 @@
 - Trained a neural network model to predict win probability
 - Gained obtainable results to verify model's performance where 73% of games were correctly predicted
 - Learned about the bias in the data and how to fine-tune neural network models
+
+![](/exploratory_data_analysis/visualizations/correlation_matrix_transparent.png)
