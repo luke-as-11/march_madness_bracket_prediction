@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2023,64,Alabama,Texas A&M-CC,1,18.9,15,5,0.75,12,16,-2,0,4,0,330,"Birmingham, AL",TRUE,Alabama
+2023,64,Maryland,West Virginia,8,12,8,10,0.44,28,9,12.1,6,13,0.32,5,"Birmingham, AL",TRUE,Maryland
+2023,64,San Diego State,Charleston,5,12.6,8,5,0.62,52,12,8.2,0,2,0,299,"Orlando, FL",TRUE,San Diego State
+2023,64,Virginia,Furman,4,11.9,6,4,0.6,59,13,5,1,3,0.25,250,"Orlando, FL",FALSE,Furman
+2023,64,Creighton,NC State,6,14.5,6,9,0.4,18,11,9.6,3,6,0.33,67,"Denver, CO",TRUE,Creighton
+2023,64,Baylor,UC Santa Barbara,3,13.8,10,11,0.48,6,14,2.3,0,1,0,295,"Denver, CO",TRUE,Baylor
+2023,64,Missouri,Utah State,7,8.2,9,8,0.53,40,10,9.4,2,4,0.33,91,"Sacramento, CA",TRUE,Missouri
+2023,64,Arizona,Princeton,2,14.2,8,2,0.8,51,15,4.5,1,1,0.5,133,"Sacramento, CA",FALSE,Princeton
+2023,64,Purdue,Fairleigh Dickinson,1,15.4,16,5,0.76,29,16,-4.6,1,1,0.5,350,"Columbus, OH",FALSE,Fairleigh Dickinson
+2023,64,Memphis,Florida Atlantic,8,11.5,7,5,0.58,54,9,11,3,1,0.75,110,"Columbus, OH",FALSE,Florida Atlantic
+2023,64,Duke,Oral Roberts,5,13,9,6,0.6,43,12,5.7,1,4,0.2,259,"Orlando, FL",TRUE,Duke
+2023,64,Tennessee,Louisiana,4,18.3,9,6,0.6,38,13,4.6,0,2,0,167,"Orlando, FL",TRUE,Tennessee
+2023,64,Kentucky,Providence,6,12.5,7,7,0.5,31,11,10.4,3,9,0.25,46,"Greensboro, NC",TRUE,Kentucky
+2023,64,Kansas State,Montana State,3,11.4,11,7,0.61,22,14,3.4,0,3,0,207,"Greensboro, NC",TRUE,Kansas State
+2023,64,Michigan State,USC,7,10.8,10,11,0.48,4,10,8.6,2,6,0.25,62,"Columbus, OH",TRUE,Michigan State
+2023,64,Marquette,Vermont,2,13.6,8,6,0.57,34,15,4.2,0,2,0,153,"Columbus, OH",TRUE,Marquette
+2023,64,Houston,Northern Kentucky,1,20.5,11,3,0.79,77,16,1.4,1,2,0.33,216,"Birmingham, AL",TRUE,Houston
+2023,64,Iowa,Auburn,8,10.8,10,9,0.53,17,9,11.6,5,10,0.33,20,"Birmingham, AL",FALSE,Auburn
+2023,64,Miami (FL),Drake,5,11.5,10,5,0.67,41,12,8.6,1,1,0.5,169,"Albany, NY",TRUE,Miami (FL)
+2023,64,Indiana,Kent State,4,12.3,10,12,0.45,13,13,7.1,0,3,0,158,"Albany, NY",TRUE,Indiana
+2023,64,Iowa State,Pittsburgh,6,11.6,9,10,0.47,3,11,8.3,8,5,0.62,69,"Greensboro, NC",FALSE,Pittsburgh
+2023,64,Xavier,Kennesaw State,3,12.5,9,7,0.56,25,14,2.1,2,3,0.4,161,"Greensboro, NC",TRUE,Xavier
+2023,64,Texas A&M,Penn State,7,11.7,6,7,0.46,49,10,10.2,11,8,0.58,14,"Des Moines, IA",FALSE,Penn State
+2023,64,Texas,Colgate,2,16.8,16,8,0.67,7,15,4.3,0,2,0,307,"Des Moines, IA",TRUE,Texas
+2023,64,Kansas,Howard,1,14.7,15,8,0.65,1,16,-3.1,0,2,0,281,"Des Moines, IA",TRUE,Kansas
+2023,64,Arkansas,Illinois,8,12.6,6,11,0.35,19,9,11.1,6,12,0.33,30,"Des Moines, IA",TRUE,Arkansas
+2023,64,Saint Mary's,VCU,5,12.2,2,4,0.33,89,12,8.7,0,2,0,113,"Albany, NY",TRUE,Saint Mary's
+2023,64,UConn,Iona,4,18.9,13,6,0.68,16,13,8.7,0,1,0,258,"Albany, NY",TRUE,UConn
+2023,64,TCU,Arizona State,6,11.6,9,11,0.45,10,11,7.7,3,6,0.33,55,"Denver, CO",TRUE,TCU
+2023,64,Gonzaga,Grand Canyon,3,14.9,8,5,0.62,66,14,5,2,1,0.67,147,"Denver, CO",TRUE,Gonzaga
+2023,64,Northwestern,Boise State,7,10.4,10,9,0.53,24,10,9.2,3,4,0.43,81,"Sacramento, CA",TRUE,Northwestern
+2023,64,UCLA,UNC Asheville,2,17.8,7,5,0.58,47,15,1.3,1,2,0.33,251,"Sacramento, CA",TRUE,UCLA
+2023,32,Alabama,Maryland,1,18.9,15,5,0.75,12,8,12,8,10,0.44,28,"Birmingham, AL",TRUE,Alabama
+2023,32,San Diego State,Furman,5,12.6,8,5,0.62,52,13,5,1,3,0.25,250,"Orlando, FL",TRUE,San Diego State
+2023,32,Creighton,Baylor,6,14.5,6,9,0.4,18,3,13.8,10,11,0.48,6,"Denver, CO",TRUE,Creighton
+2023,32,Missouri,Princeton,7,8.2,9,8,0.53,40,15,4.5,1,1,0.5,133,"Sacramento, CA",FALSE,Princeton
+2023,32,Fairleigh Dickinson,Florida Atlantic,16,-4.6,1,1,0.5,350,9,11,3,1,0.75,110,"Columbus, OH",FALSE,Florida Atlantic
+2023,32,Duke,Tennessee,5,13,9,6,0.6,43,4,18.3,9,6,0.6,38,"Orlando, FL",FALSE,Tennessee
+2023,32,Kentucky,Kansas State,6,12.5,7,7,0.5,31,3,11.4,11,7,0.61,22,"Greensboro, NC",FALSE,Kansas State
+2023,32,Michigan State,Marquette,7,10.8,10,11,0.48,4,2,13.6,8,6,0.57,34,"Columbus, OH",TRUE,Michigan State
+2023,32,Houston,Auburn,1,20.5,11,3,0.79,77,9,11.6,5,10,0.33,20,"Birmingham, AL",TRUE,Houston
+2023,32,Miami (FL),Indiana,5,11.5,10,5,0.67,41,4,12.3,10,12,0.45,13,"Albany, NY",TRUE,Miami (FL)
+2023,32,Pittsburgh,Xavier,11,8.3,8,5,0.62,69,3,12.5,9,7,0.56,25,"Greensboro, NC",FALSE,Xavier
+2023,32,Penn State,Texas,10,10.2,11,8,0.58,14,2,16.8,16,8,0.67,7,"Des Moines, IA",FALSE,Texas
+2023,32,Kansas,Arkansas,1,14.7,15,8,0.65,1,8,12.6,6,11,0.35,19,"Des Moines, IA",FALSE,Arkansas
+2023,32,Saint Mary's,UConn,5,12.2,2,4,0.33,89,4,18.9,13,6,0.68,16,"Albany, NY",FALSE,UConn
+2023,32,TCU,Gonzaga,6,11.6,9,11,0.45,10,3,14.9,8,5,0.62,66,"Denver, CO",FALSE,Gonzaga
+2023,32,Northwestern,UCLA,7,10.4,10,9,0.53,24,2,17.8,7,5,0.58,47,"Sacramento, CA",FALSE,UCLA
+2023,16,Alabama,San Diego State,1,18.9,15,5,0.75,12,5,12.6,8,5,0.62,52,"Louisville, KY",FALSE,San Diego State
+2023,16,Creighton,Princeton,6,14.5,6,9,0.4,18,15,4.5,1,1,0.5,133,"Louisville, KY",TRUE,Creighton
+2023,16,Florida Atlantic,Tennessee,9,11,3,1,0.75,110,4,18.3,9,6,0.6,38,"New York, NY",TRUE,Florida Atlantic
+2023,16,Kansas State,Michigan State,3,11.4,11,7,0.61,22,7,10.8,10,11,0.48,4,"New York, NY",TRUE,Kansas State
+2023,16,Houston,Miami (FL),1,20.5,11,3,0.79,77,5,11.5,10,5,0.67,41,"Kansas City, MO",FALSE,Miami (FL)
+2023,16,Xavier,Texas,3,12.5,9,7,0.56,25,2,16.8,16,8,0.67,7,"Kansas City, MO",FALSE,Texas
+2023,16,Arkansas,UConn,8,12.6,6,11,0.35,19,4,18.9,13,6,0.68,16,"Las Vegas, NV",FALSE,UConn
+2023,16,Gonzaga,UCLA,3,14.9,8,5,0.62,66,2,17.8,7,5,0.58,47,"Las Vegas, NV",TRUE,Gonzaga
+2023,8,San Diego State,Creighton,5,12.6,8,5,0.62,52,6,14.5,6,9,0.4,18,"Louisville, KY",TRUE,San Diego State
+2023,8,Florida Atlantic,Kansas State,9,11,3,1,0.75,110,3,11.4,11,7,0.61,22,"New York, NY",TRUE,Florida Atlantic
+2023,8,Miami (FL),Texas,5,11.5,10,5,0.67,41,2,16.8,16,8,0.67,7,"Kansas City, MO",TRUE,Miami (FL)
+2023,8,UConn,Gonzaga,4,18.9,13,6,0.68,16,3,14.9,8,5,0.62,66,"Las Vegas, NV",TRUE,UConn
+2023,4,San Diego State,Florida Atlantic,5,12.6,8,5,0.62,52,9,11,3,1,0.75,110,"Houston, TX",TRUE,San Diego State
+2023,4,Miami (FL),UConn,5,11.5,10,5,0.67,41,4,18.9,13,6,0.68,16,"Houston, TX",FALSE,UConn
+2023,2,San Diego State,UConn,5,12.6,8,5,0.62,52,4,18.9,13,6,0.68,16,"Houston, TX",FALSE,UConn

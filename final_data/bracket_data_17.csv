@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2017,64,Villanova,Mount St. Mary's,1,20.3,10,4,0.71,34,16,-1.9,0,6,0,149,"Buffalo, NY",TRUE,Villanova
+2017,64,Wisconsin,Virginia Tech,8,15,10,8,0.56,24,9,8.8,8,9,0.47,26,"Buffalo, NY",TRUE,Wisconsin
+2017,64,Virginia,UNC Wilmington,5,17.2,6,9,0.4,6,12,7.6,0,3,0,142,"Orlando, FL",TRUE,Virginia
+2017,64,Florida,East Tennessee State,4,18.1,7,9,0.44,9,13,6.1,0,2,0,175,"Orlando, FL",TRUE,Florida
+2017,64,Southern Methodist,USC,6,15.5,5,2,0.71,80,11,7.8,3,7,0.3,69,"Tulsa, OK",FALSE,USC
+2017,64,Baylor,New Mexico State,3,15.1,13,8,0.62,10,14,3.9,0,1,0,324,"Tulsa, OK",TRUE,Baylor
+2017,64,South Carolina,Marquette,7,11.4,8,6,0.57,39,10,10.8,6,6,0.5,36,"Greenville, SC",TRUE,South Carolina
+2017,64,Duke,Troy,2,17.7,15,7,0.68,8,15,2,0,1,0,207,"Greenville, SC",TRUE,Duke
+2017,64,Gonzaga,South Dakota State,1,20.4,10,1,0.91,82,16,-1,0,2,0,180,"Salt Lake City, UT",TRUE,Gonzaga
+2017,64,Northwestern,Vanderbilt,8,9.4,6,9,0.4,43,9,10.2,6,10,0.38,22,"Salt Lake City, UT",TRUE,Northwestern
+2017,64,Notre Dame,Princeton,5,13.9,9,9,0.5,14,12,8.3,0,2,0,140,"Buffalo, NY",TRUE,Notre Dame
+2017,64,West Virginia,Bucknell,4,17.6,12,7,0.63,25,13,5.2,1,3,0.25,213,"Buffalo, NY",TRUE,West Virginia
+2017,64,Maryland,Xavier,6,8.9,7,5,0.58,58,11,10.4,6,11,0.35,13,"Orlando, FL",FALSE,Xavier
+2017,64,Florida State,Florida Gulf Coast,3,13.9,11,6,0.65,29,14,5.4,0,4,0,221,"Orlando, FL",TRUE,Florida State
+2017,64,Saint Mary's,VCU,7,16.6,3,4,0.43,104,10,9.7,2,5,0.29,83,"Salt Lake City, UT",TRUE,Saint Mary's
+2017,64,Arizona,North Dakota,2,14.7,5,5,0.5,67,15,1.4,0,1,0,302,"Salt Lake City, UT",TRUE,Arizona
+2017,64,Kansas,UC Davis,1,18.4,16,5,0.76,11,16,-2.9,0,1,0,299,"Tulsa, OK",TRUE,Kansas
+2017,64,Miami (FL),Michigan State,8,10.7,5,11,0.31,23,9,9.7,7,10,0.41,16,"Tulsa, OK",FALSE,Michigan State
+2017,64,Iowa State,Nevada,5,14.7,14,9,0.61,2,12,9,0,2,0,155,"Milwaukee, WI",TRUE,Iowa State
+2017,64,Purdue,Vermont,4,16.1,10,6,0.63,40,13,9,0,4,0,203,"Milwaukee, WI",TRUE,Purdue
+2017,64,Creighton,Rhode Island,6,12,5,7,0.42,45,11,10.4,4,5,0.44,73,"Sacramento, CA",FALSE,Rhode Island
+2017,64,Oregon,Iona,3,17.4,5,4,0.56,61,14,1.2,1,3,0.25,156,"Sacramento, CA",TRUE,Oregon
+2017,64,Michigan,Oklahoma State,7,15.6,12,7,0.63,19,10,12.4,8,11,0.42,4,"Indianapolis, IN",TRUE,Michigan
+2017,64,Louisville,Jacksonville State,2,17.8,10,9,0.53,7,15,-0.2,0,2,0,204,"Indianapolis, IN",TRUE,Louisville
+2017,64,North Carolina,Texas Southern,1,19.4,16,6,0.73,5,16,-0.9,0,6,0,146,"Greenville, SC",TRUE,North Carolina
+2017,64,Arkansas,Seton Hall,8,9.6,4,8,0.33,54,9,8.4,6,9,0.4,27,"Greenville, SC",TRUE,Arkansas
+2017,64,Minnesota,Middle Tennessee State,5,9.8,7,7,0.5,47,12,9.5,2,2,0.5,187,"Milwaukee, WI",FALSE,Middle Tennessee State
+2017,64,Butler,Winthrop,4,13.3,13,4,0.76,18,13,3.7,0,3,0,283,"Milwaukee, WI",TRUE,Butler
+2017,64,Cincinnati,Kansas State,6,14.8,6,5,0.55,75,11,10.2,7,11,0.39,15,"Sacramento, CA",TRUE,Cincinnati
+2017,64,UCLA,Kent State,3,16.8,5,4,0.56,70,14,1.4,0,1,0,193,"Sacramento, CA",TRUE,UCLA
+2017,64,Dayton,Wichita State,7,10.2,4,4,0.5,84,10,15.7,1,4,0.2,116,"Indianapolis, IN",FALSE,Wichita State
+2017,64,Kentucky,Northern Kentucky,2,17.5,10,5,0.67,31,15,-0.2,0,2,0,271,"Indianapolis, IN",TRUE,Kentucky
+2017,32,Villanova,Wisconsin,1,20.3,10,4,0.71,34,8,15,10,8,0.56,24,"Buffalo, NY",FALSE,Wisconsin
+2017,32,Virginia,Florida,5,17.2,6,9,0.4,6,4,18.1,7,9,0.44,9,"Orlando, FL",FALSE,Florida
+2017,32,USC,Baylor,11,7.8,3,7,0.3,69,3,15.1,13,8,0.62,10,"Tulsa, OK",FALSE,Baylor
+2017,32,South Carolina,Duke,7,11.4,8,6,0.57,39,2,17.7,15,7,0.68,8,"Greenville, SC",TRUE,South Carolina
+2017,32,Gonzaga,Northwestern,1,20.4,10,1,0.91,82,8,9.4,6,9,0.4,43,"Salt Lake City, UT",TRUE,Gonzaga
+2017,32,Notre Dame,West Virginia,5,13.9,9,9,0.5,14,4,17.6,12,7,0.63,25,"Buffalo, NY",FALSE,West Virginia
+2017,32,Xavier,Florida State,11,10.4,6,11,0.35,13,3,13.9,11,6,0.65,29,"Orlando, FL",TRUE,Xavier
+2017,32,Saint Mary's,Arizona,7,16.6,3,4,0.43,104,2,14.7,5,5,0.5,67,"Salt Lake City, UT",FALSE,Arizona
+2017,32,Kansas,Michigan State,1,18.4,16,5,0.76,11,9,9.7,7,10,0.41,16,"Tulsa, OK",TRUE,Kansas
+2017,32,Iowa State,Purdue,5,14.7,14,9,0.61,2,4,16.1,10,6,0.63,40,"Milwaukee, WI",FALSE,Purdue
+2017,32,Rhode Island,Oregon,11,10.4,4,5,0.44,73,3,17.4,5,4,0.56,61,"Sacramento, CA",FALSE,Oregon
+2017,32,Michigan,Louisville,7,15.6,12,7,0.63,19,2,17.8,10,9,0.53,7,"Indianapolis, IN",TRUE,Michigan
+2017,32,North Carolina,Arkansas,1,19.4,16,6,0.73,5,8,9.6,4,8,0.33,54,"Greenville, SC",TRUE,North Carolina
+2017,32,Middle Tennessee State,Butler,12,9.5,2,2,0.5,187,4,13.3,13,4,0.76,18,"Milwaukee, WI",FALSE,Butler
+2017,32,Cincinnati,UCLA,6,14.8,6,5,0.55,75,3,16.8,5,4,0.56,70,"Sacramento, CA",FALSE,UCLA
+2017,32,Wichita State,Kentucky,10,15.7,1,4,0.2,116,2,17.5,10,5,0.67,31,"Indianapolis, IN",FALSE,Kentucky
+2017,16,Wisconsin,Florida,8,15,10,8,0.56,24,4,18.1,7,9,0.44,9,"New York, NY",FALSE,Florida
+2017,16,Baylor,South Carolina,3,15.1,13,8,0.62,10,7,11.4,8,6,0.57,39,"New York, NY",FALSE,South Carolina
+2017,16,Gonzaga,West Virginia,1,20.4,10,1,0.91,82,4,17.6,12,7,0.63,25,"San Jose, CA",TRUE,Gonzaga
+2017,16,Xavier,Arizona,11,10.4,6,11,0.35,13,2,14.7,5,5,0.5,67,"San Jose, CA",TRUE,Xavier
+2017,16,Kansas,Purdue,1,18.4,16,5,0.76,11,4,16.1,10,6,0.63,40,"Kansas City, MO",TRUE,Kansas
+2017,16,Oregon,Michigan,3,17.4,5,4,0.56,61,7,15.6,12,7,0.63,19,"Kansas City, MO",TRUE,Oregon
+2017,16,North Carolina,Butler,1,19.4,16,6,0.73,5,4,13.3,13,4,0.76,18,"Memphis, TN",TRUE,North Carolina
+2017,16,UCLA,Kentucky,3,16.8,5,4,0.56,70,2,17.5,10,5,0.67,31,"Memphis, TN",FALSE,Kentucky
+2017,8,Florida,South Carolina,4,18.1,7,9,0.44,9,7,11.4,8,6,0.57,39,"New York, NY",FALSE,South Carolina
+2017,8,Gonzaga,Xavier,1,20.4,10,1,0.91,82,11,10.4,6,11,0.35,13,"San Jose, CA",TRUE,Gonzaga
+2017,8,Kansas,Oregon,1,18.4,16,5,0.76,11,3,17.4,5,4,0.56,61,"Kansas City, MO",FALSE,Oregon
+2017,8,North Carolina,Kentucky,1,19.4,16,6,0.73,5,2,17.5,10,5,0.67,31,"Memphis, TN",TRUE,North Carolina
+2017,4,South Carolina,Gonzaga,7,11.4,8,6,0.57,39,1,20.4,10,1,0.91,82,"Phoenix, AZ",FALSE,Gonzaga
+2017,4,Oregon,North Carolina,3,17.4,5,4,0.56,61,1,19.4,16,6,0.73,5,"Phoenix, AZ",FALSE,North Carolina
+2017,2,Gonzaga,North Carolina,1,20.4,10,1,0.91,82,1,19.4,16,6,0.73,5,"Phoenix, AZ",FALSE,North Carolina

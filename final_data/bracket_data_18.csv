@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2018,64,Virginia,UMBC,1,20.2,17,2,0.89,32,16,0.7,1,3,0.25,168,"Charlotte, NC",FALSE,UMBC
+2018,64,Creighton,Kansas State,8,12.2,3,10,0.23,48,9,9.2,9,11,0.45,31,"Charlotte, NC",FALSE,Kansas State
+2018,64,Kentucky,Davidson,5,12.9,8,9,0.47,16,12,10.7,2,5,0.29,86,"Boise, ID",TRUE,Kentucky
+2018,64,Arizona,Buffalo,4,11.9,3,2,0.6,72,13,6.7,1,4,0.2,145,"Boise, ID",FALSE,Buffalo
+2018,64,Miami (FL),Loyola (IL),6,10.6,8,7,0.53,53,11,9.6,5,1,0.83,119,"Dallas, TX",FALSE,Loyola (IL)
+2018,64,Tennessee,Wright State,3,14.4,7,7,0.5,17,14,1.7,0,2,0,234,"Dallas, TX",TRUE,Tennessee
+2018,64,Nevada,Texas,7,11.2,4,3,0.57,82,10,10,6,14,0.3,2,"Nashville, TN",TRUE,Nevada
+2018,64,Cincinnati,Georgia State,2,18.5,3,5,0.38,74,15,4.4,0,1,0,258,"Nashville, TN",TRUE,Cincinnati
+2018,64,Xavier,Texas Southern,1,14.7,10,4,0.71,40,16,-3.6,0,8,0,109,"Nashville, TN",TRUE,Xavier
+2018,64,Missouri,Florida State,8,9.1,4,7,0.36,54,9,11.5,10,9,0.53,20,"Nashville, TN",FALSE,Florida State
+2018,64,Ohio State,South Dakota State,5,13.8,4,9,0.31,35,12,5.9,0,3,0,159,"Boise, ID",TRUE,Ohio State
+2018,64,Gonzaga,UNC Greensboro,4,15.4,5,4,0.56,90,13,6.1,1,2,0.33,179,"Boise, ID",TRUE,Gonzaga
+2018,64,Houston,San Diego State,6,13.4,4,4,0.5,67,11,8.8,3,3,0.5,93,"Wichita, KS",TRUE,Houston
+2018,64,Michigan,Montana,3,15.1,12,5,0.71,28,14,3.7,0,2,0,246,"Wichita, KS",TRUE,Michigan
+2018,64,Texas A&M,Providence,7,10.8,7,8,0.47,6,10,7.7,7,11,0.39,22,"Charlotte, NC",TRUE,Texas A&M
+2018,64,North Carolina,Lipscomb,2,16.1,15,10,0.6,1,15,-0.2,0,4,0,169,"Charlotte, NC",TRUE,North Carolina
+2018,64,Villanova,Radford,1,22.8,16,2,0.89,11,16,0.1,0,4,0,193,"Pittsburgh, PA",TRUE,Villanova
+2018,64,Virginia Tech,Alabama,8,11.2,6,10,0.38,43,9,8.6,9,10,0.47,15,"Pittsburgh, PA",FALSE,Alabama
+2018,64,West Virginia,Murray State,5,15.8,13,9,0.59,12,12,7.6,0,3,0,249,"San Diego, CA",TRUE,West Virginia
+2018,64,Wichita State,Marshall,4,14.2,4,5,0.44,68,13,3.1,3,2,0.6,115,"San Diego, CA",FALSE,Marshall
+2018,64,Florida,St. Bonaventure,6,12.1,9,7,0.56,18,11,8,4,5,0.44,80,"Dallas, TX",TRUE,Florida
+2018,64,Texas Tech,Stephen F. Austin,3,15.1,13,8,0.62,7,14,3.5,0,2,0,328,"Dallas, TX",TRUE,Texas Tech
+2018,64,Arkansas,Butler,7,10,6,9,0.4,36,10,12.4,7,11,0.39,5,"Detroit, MI",FALSE,Butler
+2018,64,Purdue,Cal State Fullerton,2,19,11,5,0.69,34,15,-0.7,0,2,0,211,"Detroit, MI",TRUE,Purdue
+2018,64,Kansas,Pennsylvania,1,16.5,19,5,0.79,3,16,4.2,0,2,0,254,"Wichita, KS",TRUE,Kansas
+2018,64,Seton Hall,NC State,8,11.7,6,10,0.38,19,9,9.2,9,8,0.53,51,"Wichita, KS",TRUE,Seton Hall
+2018,64,Clemson,New Mexico State,5,14,9,9,0.5,14,12,6.9,2,2,0.5,173,"San Diego, CA",TRUE,Clemson
+2018,64,Auburn,Charleston,4,12.2,5,4,0.56,65,13,3.3,0,3,0,240,"San Diego, CA",TRUE,Auburn
+2018,64,TCU,Syracuse,6,12.3,6,11,0.35,26,11,9.4,8,10,0.44,24,"Detroit, MI",FALSE,Syracuse
+2018,64,Michigan State,Bucknell,3,17.8,6,5,0.55,60,14,6.4,0,4,0,175,"Detroit, MI",TRUE,Michigan State
+2018,64,Rhode Island,Oklahoma,7,10.5,3,5,0.38,77,10,9.4,7,10,0.41,4,"Pittsburgh, PA",TRUE,Rhode Island
+2018,64,Duke,Iona,2,19.8,14,6,0.7,8,15,3.1,0,3,0,176,"Pittsburgh, PA",TRUE,Duke
+2018,32,UMBC,Kansas State,16,0.7,1,3,0.25,168,9,9.2,9,11,0.45,31,"Charlotte, NC",FALSE,Kansas State
+2018,32,Kentucky,Buffalo,5,12.9,8,9,0.47,16,13,6.7,1,4,0.2,145,"Boise, ID",TRUE,Kentucky
+2018,32,Loyola (IL),Tennessee,11,9.6,5,1,0.83,119,3,14.4,7,7,0.5,17,"Dallas, TX",TRUE,Loyola (IL)
+2018,32,Nevada,Cincinnati,7,11.2,4,3,0.57,82,2,18.5,3,5,0.38,74,"Nashville, TN",TRUE,Nevada
+2018,32,Xavier,Florida State,1,14.7,10,4,0.71,40,9,11.5,10,9,0.53,20,"Nashville, TN",FALSE,Florida State
+2018,32,Ohio State,Gonzaga,5,13.8,4,9,0.31,35,4,15.4,5,4,0.56,90,"Boise, ID",FALSE,Gonzaga
+2018,32,Houston,Michigan,6,13.4,4,4,0.5,67,3,15.1,12,5,0.71,28,"Wichita, KS",FALSE,Michigan
+2018,32,Texas A&M,North Carolina,7,10.8,7,8,0.47,6,2,16.1,15,10,0.6,1,"Charlotte, NC",TRUE,Texas A&M
+2018,32,Villanova,Alabama,1,22.8,16,2,0.89,11,9,8.6,9,10,0.47,15,"Pittsburgh, PA",TRUE,Villanova
+2018,32,West Virginia,Marshall,5,15.8,13,9,0.59,12,13,3.1,3,2,0.6,115,"San Diego, CA",TRUE,West Virginia
+2018,32,Florida,Texas Tech,6,12.1,9,7,0.56,18,3,15.1,13,8,0.62,7,"Dallas, TX",FALSE,Texas Tech
+2018,32,Butler,Purdue,10,12.4,7,11,0.39,5,2,19,11,5,0.69,34,"Detroit, MI",FALSE,Purdue
+2018,32,Kansas,Seton Hall,1,16.5,19,5,0.79,3,8,11.7,6,10,0.38,19,"Wichita, KS",TRUE,Kansas
+2018,32,Clemson,Auburn,5,14,9,9,0.5,14,4,12.2,5,4,0.56,65,"San Diego, CA",TRUE,Clemson
+2018,32,Syracuse,Michigan State,11,9.4,8,10,0.44,24,3,17.8,6,5,0.55,60,"Detroit, MI",TRUE,Syracuse
+2018,32,Rhode Island,Duke,7,10.5,3,5,0.38,77,2,19.8,14,6,0.7,8,"Pittsburgh, PA",FALSE,Duke
+2018,16,Kansas State,Kentucky,9,9.2,9,11,0.45,31,5,12.9,8,9,0.47,16,"Atlanta, GA",TRUE,Kansas State
+2018,16,Loyola (IL),Nevada,11,9.6,5,1,0.83,119,7,11.2,4,3,0.57,82,"Atlanta, GA",TRUE,Loyola (IL)
+2018,16,Florida State,Gonzaga,9,11.5,10,9,0.53,20,4,15.4,5,4,0.56,90,"Los Angeles, CA",TRUE,Florida State
+2018,16,Michigan,Texas A&M,3,15.1,12,5,0.71,28,7,10.8,7,8,0.47,6,"Los Angeles, CA",TRUE,Michigan
+2018,16,Villanova,West Virginia,1,22.8,16,2,0.89,11,5,15.8,13,9,0.59,12,"Boston, MA",TRUE,Villanova
+2018,16,Texas Tech,Purdue,3,15.1,13,8,0.62,7,2,19,11,5,0.69,34,"Boston, MA",TRUE,Texas Tech
+2018,16,Kansas,Clemson,1,16.5,19,5,0.79,3,5,14,9,9,0.5,14,"Omaha, NE",TRUE,Kansas
+2018,16,Syracuse,Duke,11,9.4,8,10,0.44,24,2,19.8,14,6,0.7,8,"Omaha, NE",FALSE,Duke
+2018,8,Kansas State,Loyola (IL),9,9.2,9,11,0.45,31,11,9.6,5,1,0.83,119,"Atlanta, GA",FALSE,Loyola (IL)
+2018,8,Florida State,Michigan,9,11.5,10,9,0.53,20,3,15.1,12,5,0.71,28,"Los Angeles, CA",FALSE,Michigan
+2018,8,Villanova,Texas Tech,1,22.8,16,2,0.89,11,3,15.1,13,8,0.62,7,"Boston, MA",TRUE,Villanova
+2018,8,Kansas,Duke,1,16.5,19,5,0.79,3,2,19.8,14,6,0.7,8,"Omaha, NE",TRUE,Kansas
+2018,4,Loyola (IL),Michigan,11,9.6,5,1,0.83,119,3,15.1,12,5,0.71,28,"San Antonio, TX",FALSE,Michigan
+2018,4,Villanova,Kansas,1,22.8,16,2,0.89,11,1,16.5,19,5,0.79,3,"San Antonio, TX",TRUE,Villanova
+2018,2,Michigan,Villanova,3,15.1,12,5,0.71,28,1,22.8,16,2,0.89,11,"San Antonio, TX",FALSE,Villanova

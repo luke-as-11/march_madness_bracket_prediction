@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2015,64,Kentucky,Hampton,1,23.9,16,1,0.94,40,16,-3.8,0,4,0,246,"Louisville, KY",TRUE,Kentucky
+2015,64,Cincinnati,Purdue,8,8.7,4,4,0.5,80,9,9.9,8,9,0.47,30,"Louisville, KY",TRUE,Cincinnati
+2015,64,West Virginia,Buffalo,5,11.5,7,9,0.44,15,12,7.5,0,3,0,111,"Columbus, OH",TRUE,West Virginia
+2015,64,Maryland,Valparaiso,4,10.5,9,7,0.56,28,13,5.7,0,1,0,287,"Columbus, OH",TRUE,Maryland
+2015,64,Butler,Texas,6,12.8,7,10,0.41,25,11,12.5,3,13,0.19,16,"Pittsburgh, PA",TRUE,Butler
+2015,64,Notre Dame,Northeastern,3,15.8,12,5,0.71,20,14,2.6,1,1,0.5,146,"Pittsburgh, PA",TRUE,Notre Dame
+2015,64,Wichita State,Indiana,7,13.7,3,3,0.5,98,10,9.7,6,12,0.33,33,"Omaha, NE",TRUE,Wichita State
+2015,64,Kansas,New Mexico State,2,14.4,14,7,0.67,2,15,4.5,0,3,0,216,"Omaha, NE",TRUE,Kansas
+2015,64,Wisconsin,Coastal Carolina,1,21.7,16,2,0.89,10,16,2.6,0,2,0,318,"Omaha, NE",TRUE,Wisconsin
+2015,64,Oregon,Oklahoma State,8,3.6,4,6,0.4,61,9,9.5,5,9,0.36,24,"Omaha, NE",TRUE,Oregon
+2015,64,Arkansas,Wofford,5,10,5,6,0.45,59,12,4.2,1,3,0.25,192,"Jacksonville, FL",TRUE,Arkansas
+2015,64,North Carolina,Harvard,4,17.8,10,11,0.48,1,13,6.1,0,2,0,127,"Jacksonville, FL",TRUE,North Carolina
+2015,64,Xavier,Ole Miss,6,9.5,9,8,0.53,18,11,8.3,5,6,0.45,63,"Jacksonville, FL",TRUE,Xavier
+2015,64,Baylor,Georgia State,3,13.6,8,8,0.5,13,14,7.7,1,3,0.25,156,"Jacksonville, FL",FALSE,Georgia State
+2015,64,VCU,Ohio State,7,12,7,8,0.47,54,10,16.3,7,10,0.41,34,"Portland, OR",FALSE,Ohio State
+2015,64,Arizona,Texas Southern,2,19.6,5,1,0.83,76,15,-3,1,6,0.14,107,"Portland, OR",TRUE,Arizona
+2015,64,Villanova,Lafayette,1,19.3,14,2,0.88,55,16,-0.3,0,3,0,204,"Pittsburgh, PA",TRUE,Villanova
+2015,64,NC State,LSU,8,10.4,6,10,0.38,8,9,7.8,7,3,0.7,67,"Pittsburgh, PA",TRUE,NC State
+2015,64,Northern Iowa,Wyoming,5,11.8,4,3,0.57,104,12,2.9,0,2,0,186,"Seattle, WA",TRUE,Northern Iowa
+2015,64,Louisville,UC Irvine,4,14.8,9,9,0.5,5,13,5.3,0,2,0,164,"Seattle, WA",TRUE,Louisville
+2015,64,Providence,Dayton,6,10.4,8,9,0.47,19,11,9.4,6,4,0.6,77,"Columbus, OH",FALSE,Dayton
+2015,64,Oklahoma,Albany,3,13.9,11,7,0.61,7,14,2.4,0,2,0,247,"Columbus, OH",TRUE,Oklahoma
+2015,64,Michigan State,Georgia,7,13.7,12,10,0.55,3,10,8.6,3,7,0.3,44,"Charlotte, NC",TRUE,Michigan State
+2015,64,Virginia,Belmont,2,19.6,10,4,0.71,27,15,2,0,3,0,160,"Charlotte, NC",TRUE,Virginia
+2015,64,Duke,Robert Morris,1,22.4,14,4,0.78,4,16,-0.5,0,3,0,207,"Charlotte, NC",TRUE,Duke
+2015,64,San Diego State,St. John's,8,7.7,3,3,0.5,79,9,9.2,7,8,0.47,39,"Charlotte, NC",TRUE,San Diego State
+2015,64,Utah,Stephen F. Austin,5,16.2,4,4,0.5,74,12,8.8,0,4,0,235,"Portland, OR",TRUE,Utah
+2015,64,Georgetown,Eastern Washington,4,10.4,6,11,0.35,17,13,4.8,1,2,0.33,273,"Portland, OR",TRUE,Georgetown
+2015,64,Southern Methodist,UCLA,6,9.8,0,5,0,91,11,4.8,2,8,0.2,53,"Louisville, KY",FALSE,UCLA
+2015,64,Iowa State,UAB,3,13.8,13,5,0.72,9,14,0.5,2,3,0.4,131,"Louisville, KY",FALSE,UAB
+2015,64,Iowa,Davidson,7,12.1,8,10,0.44,11,10,10.3,4,6,0.4,70,"Seattle, WA",TRUE,Iowa
+2015,64,Gonzaga,North Dakota State,2,16.4,6,3,0.67,96,15,-1.1,0,3,0,236,"Seattle, WA",TRUE,Gonzaga
+2015,32,Kentucky,Cincinnati,1,23.9,16,1,0.94,40,8,8.7,4,4,0.5,80,"Louisville, KY",TRUE,Kentucky
+2015,32,West Virginia,Maryland,5,11.5,7,9,0.44,15,4,10.5,9,7,0.56,28,"Columbus, OH",TRUE,West Virginia
+2015,32,Butler,Notre Dame,6,12.8,7,10,0.41,25,3,15.8,12,5,0.71,20,"Pittsburgh, PA",FALSE,Notre Dame
+2015,32,Wichita State,Kansas,7,13.7,3,3,0.5,98,2,14.4,14,7,0.67,2,"Omaha, NE",TRUE,Wichita State
+2015,32,Wisconsin,Oregon,1,21.7,16,2,0.89,10,8,3.6,4,6,0.4,61,"Omaha, NE",TRUE,Wisconsin
+2015,32,Arkansas,North Carolina,5,10,5,6,0.45,59,4,17.8,10,11,0.48,1,"Jacksonville, FL",FALSE,North Carolina
+2015,32,Xavier,Georgia State,6,9.5,9,8,0.53,18,14,7.7,1,3,0.25,156,"Jacksonville, FL",TRUE,Xavier
+2015,32,Ohio State,Arizona,10,16.3,7,10,0.41,34,2,19.6,5,1,0.83,76,"Portland, OR",FALSE,Arizona
+2015,32,Villanova,NC State,1,19.3,14,2,0.88,55,8,10.4,6,10,0.38,8,"Pittsburgh, PA",FALSE,NC State
+2015,32,Northern Iowa,Louisville,5,11.8,4,3,0.57,104,4,14.8,9,9,0.5,5,"Seattle, WA",FALSE,Louisville
+2015,32,Dayton,Oklahoma,11,9.4,6,4,0.6,77,3,13.9,11,7,0.61,7,"Columbus, OH",FALSE,Oklahoma
+2015,32,Michigan State,Virginia,7,13.7,12,10,0.55,3,2,19.6,10,4,0.71,27,"Charlotte, NC",TRUE,Michigan State
+2015,32,Duke,San Diego State,1,22.4,14,4,0.78,4,8,7.7,3,3,0.5,79,"Charlotte, NC",TRUE,Duke
+2015,32,Utah,Georgetown,5,16.2,4,4,0.5,74,4,10.4,6,11,0.35,17,"Portland, OR",TRUE,Utah
+2015,32,UCLA,UAB,11,4.8,2,8,0.2,53,14,0.5,2,3,0.4,131,"Louisville, KY",TRUE,UCLA
+2015,32,Iowa,Gonzaga,7,12.1,8,10,0.44,11,2,16.4,6,3,0.67,96,"Seattle, WA",FALSE,Gonzaga
+2015,16,Kentucky,West Virginia,1,23.9,16,1,0.94,40,5,11.5,7,9,0.44,15,"Cleveland, OH",TRUE,Kentucky
+2015,16,Notre Dame,Wichita State,3,15.8,12,5,0.71,20,7,13.7,3,3,0.5,98,"Cleveland, OH",TRUE,Notre Dame
+2015,16,Wisconsin,North Carolina,1,21.7,16,2,0.89,10,4,17.8,10,11,0.48,1,"Los Angeles, CA",TRUE,Wisconsin
+2015,16,Xavier,Arizona,6,9.5,9,8,0.53,18,2,19.6,5,1,0.83,76,"Los Angeles, CA",FALSE,Arizona
+2015,16,NC State,Louisville,8,10.4,6,10,0.38,8,4,14.8,9,9,0.5,5,"Syracuse, NY",FALSE,Louisville
+2015,16,Oklahoma,Michigan State,3,13.9,11,7,0.61,7,7,13.7,12,10,0.55,3,"Syracuse, NY",FALSE,Michigan State
+2015,16,Duke,Utah,1,22.4,14,4,0.78,4,5,16.2,4,4,0.5,74,"Houston, TX",TRUE,Duke
+2015,16,UCLA,Gonzaga,11,4.8,2,8,0.2,53,2,16.4,6,3,0.67,96,"Houston, TX",FALSE,Gonzaga
+2015,8,Kentucky,Notre Dame,1,23.9,16,1,0.94,40,3,15.8,12,5,0.71,20,"Cleveland, OH",TRUE,Kentucky
+2015,8,Wisconsin,Arizona,1,21.7,16,2,0.89,10,2,19.6,5,1,0.83,76,"Los Angeles, CA",TRUE,Wisconsin
+2015,8,Louisville,Michigan State,4,14.8,9,9,0.5,5,7,13.7,12,10,0.55,3,"Syracuse, NY",FALSE,Michigan State
+2015,8,Duke,Gonzaga,1,22.4,14,4,0.78,4,2,16.4,6,3,0.67,96,"Houston, TX",TRUE,Duke
+2015,4,Kentucky,Wisconsin,1,23.9,16,1,0.94,40,1,21.7,16,2,0.89,10,"Indianapolis, IN",FALSE,Wisconsin
+2015,4,Michigan State,Duke,7,13.7,12,10,0.55,3,1,22.4,14,4,0.78,4,"Indianapolis, IN",FALSE,Duke
+2015,2,Wisconsin,Duke,1,21.7,16,2,0.89,10,1,22.4,14,4,0.78,4,"Indianapolis, IN",FALSE,Duke

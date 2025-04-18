@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2016,64,Kansas,Austin Peay,1,18.5,14,4,0.78,10,16,-3.3,0,3,0,224,"Des Moines, IA",TRUE,Kansas
+2016,64,Colorado,UConn,8,8.7,4,8,0.33,75,9,13.5,4,7,0.36,51,"Des Moines, IA",FALSE,UConn
+2016,64,Maryland,South Dakota State,5,13.3,6,8,0.43,35,12,6.3,0,1,0,221,"Spokane, WA",TRUE,Maryland
+2016,64,California,Hawaii,4,11.8,4,5,0.44,72,13,2.9,1,2,0.33,163,"Spokane, WA",FALSE,Hawaii
+2016,64,Arizona,Wichita State,6,14.8,2,5,0.29,78,11,14.4,3,3,0.5,103,"Providence, RI",FALSE,Wichita State
+2016,64,Miami (FL),Buffalo,3,13.5,14,5,0.74,5,14,1.8,0,4,0,111,"Providence, RI",TRUE,Miami (FL)
+2016,64,Iowa,Temple,7,12.9,8,8,0.5,19,10,5.9,5,7,0.42,54,"Brooklyn, NY",TRUE,Iowa
+2016,64,Villanova,UNC Asheville,2,19.9,11,4,0.73,27,15,2.7,0,2,0,249,"Brooklyn, NY",TRUE,Villanova
+2016,64,Oregon,Holy Cross,1,13,9,2,0.82,60,16,-7.7,0,2,0,260,"Spokane, WA",TRUE,Oregon
+2016,64,Saint Joseph's,Cincinnati,8,8.7,7,4,0.64,80,9,13,5,5,0.5,68,"Spokane, WA",TRUE,Saint Joseph's
+2016,64,Baylor,Yale,5,11.8,6,11,0.35,14,12,10.5,2,4,0.33,105,"Providence, RI",FALSE,Yale
+2016,64,Duke,UNC Wilmington,4,15.6,8,11,0.42,8,13,4.3,0,1,0,176,"Providence, RI",TRUE,Duke
+2016,64,Texas,Northern Iowa,6,9.6,7,9,0.44,4,11,6,6,3,0.67,91,"Oklahoma City, OK",FALSE,Northern Iowa
+2016,64,Texas A&M,Green Bay,3,13,8,4,0.67,56,14,1.3,1,4,0.2,134,"Oklahoma City, OK",TRUE,Texas A&M
+2016,64,Oregon State,VCU,7,6.8,3,8,0.27,42,10,10.6,1,7,0.13,88,"Oklahoma City, OK",FALSE,VCU
+2016,64,Oklahoma,Cal State Bakersfield,2,14.9,13,6,0.68,2,15,2.2,0,2,0,285,"Oklahoma City, OK",TRUE,Oklahoma
+2016,64,North Carolina,Florida Gulf Coast,1,18.7,14,5,0.74,11,16,-1,0,3,0,301,"Raleigh, NC",TRUE,North Carolina
+2016,64,USC,Providence,8,7.3,3,7,0.3,63,9,7.4,7,8,0.47,30,"Raleigh, NC",FALSE,Providence
+2016,64,Indiana,Chattanooga,5,15.8,9,5,0.64,59,12,4.2,1,2,0.33,239,"Des Moines, IA",TRUE,Indiana
+2016,64,Kentucky,Stony Brook,4,16.2,6,4,0.6,41,13,8.1,1,3,0.25,214,"Des Moines, IA",TRUE,Kentucky
+2016,64,Notre Dame,Michigan,6,11,9,9,0.5,6,11,10.4,4,12,0.25,25,"Brooklyn, NY",TRUE,Notre Dame
+2016,64,West Virginia,Stephen F. Austin,3,16.5,6,9,0.4,13,14,9.5,1,2,0.33,275,"Brooklyn, NY",FALSE,Stephen F. Austin
+2016,64,Wisconsin,Pittsburgh,7,9.8,9,7,0.56,18,10,12.3,6,9,0.4,26,"St. Louis, MO",TRUE,Wisconsin
+2016,64,Xavier,Weber State,2,14.1,8,5,0.62,55,15,2.8,0,2,0,318,"St. Louis, MO",TRUE,Xavier
+2016,64,Virginia,Hampton,1,18.6,15,6,0.71,1,16,-5.7,0,3,0,279,"Raleigh, NC",TRUE,Virginia
+2016,64,Texas Tech,Butler,8,7.9,4,10,0.29,21,9,12.1,5,7,0.42,38,"Raleigh, NC",FALSE,Butler
+2016,64,Purdue,Little Rock,5,15.9,9,7,0.56,37,12,8.1,1,1,0.5,152,"Denver, CO",FALSE,Little Rock
+2016,64,Iowa State,Iona,4,12.8,5,10,0.33,7,13,4.2,0,2,0,138,"Denver, CO",TRUE,Iowa State
+2016,64,Seton Hall,Gonzaga,6,11,6,8,0.43,39,11,12.5,6,7,0.46,89,"Denver, CO",FALSE,Gonzaga
+2016,64,Utah,Fresno State,3,10.1,5,7,0.42,47,14,2.5,0,3,0,110,"Denver, CO",TRUE,Utah
+2016,64,Dayton,Syracuse,7,9,4,2,0.67,90,10,11,8,12,0.4,12,"St. Louis, MO",FALSE,Syracuse
+2016,64,Michigan State,Middle Tennessee State,2,18.6,9,4,0.69,53,15,1.3,1,2,0.33,185,"St. Louis, MO",FALSE,Middle Tennessee State
+2016,32,Kansas,UConn,1,18.5,14,4,0.78,10,9,13.5,4,7,0.36,51,"Des Moines, IA",TRUE,Kansas
+2016,32,Maryland,Hawaii,5,13.3,6,8,0.43,35,13,2.9,1,2,0.33,163,"Spokane, WA",TRUE,Maryland
+2016,32,Wichita State,Miami (FL),11,14.4,3,3,0.5,103,3,13.5,14,5,0.74,5,"Providence, RI",FALSE,Miami (FL)
+2016,32,Iowa,Villanova,7,12.9,8,8,0.5,19,2,19.9,11,4,0.73,27,"Brooklyn, NY",FALSE,Villanova
+2016,32,Oregon,Saint Joseph's,1,13,9,2,0.82,60,8,8.7,7,4,0.64,80,"Spokane, WA",TRUE,Oregon
+2016,32,Yale,Duke,12,10.5,2,4,0.33,105,4,15.6,8,11,0.42,8,"Providence, RI",FALSE,Duke
+2016,32,Northern Iowa,Texas A&M,11,6,6,3,0.67,91,3,13,8,4,0.67,56,"Oklahoma City, OK",FALSE,Texas A&M
+2016,32,VCU,Oklahoma,10,10.6,1,7,0.13,88,2,14.9,13,6,0.68,2,"Oklahoma City, OK",FALSE,Oklahoma
+2016,32,North Carolina,Providence,1,18.7,14,5,0.74,11,9,7.4,7,8,0.47,30,"Raleigh, NC",TRUE,North Carolina
+2016,32,Indiana,Kentucky,5,15.8,9,5,0.64,59,4,16.2,6,4,0.6,41,"Des Moines, IA",TRUE,Indiana
+2016,32,Notre Dame,Stephen F. Austin,6,11,9,9,0.5,6,14,9.5,1,2,0.33,275,"Brooklyn, NY",TRUE,Notre Dame
+2016,32,Wisconsin,Xavier,7,9.8,9,7,0.56,18,2,14.1,8,5,0.62,55,"St. Louis, MO",TRUE,Wisconsin
+2016,32,Virginia,Butler,1,18.6,15,6,0.71,1,9,12.1,5,7,0.42,38,"Raleigh, NC",TRUE,Virginia
+2016,32,Little Rock,Iowa State,12,8.1,1,1,0.5,152,4,12.8,5,10,0.33,7,"Denver, CO",FALSE,Iowa State
+2016,32,Gonzaga,Utah,11,12.5,6,7,0.46,89,3,10.1,5,7,0.42,47,"Denver, CO",TRUE,Gonzaga
+2016,32,Syracuse,Middle Tennessee State,10,11,8,12,0.4,12,15,1.3,1,2,0.33,185,"St. Louis, MO",TRUE,Syracuse
+2016,16,Kansas,Maryland,1,18.5,14,4,0.78,10,5,13.3,6,8,0.43,35,"Louisville, KY",TRUE,Kansas
+2016,16,Miami (FL),Villanova,3,13.5,14,5,0.74,5,2,19.9,11,4,0.73,27,"Louisville, KY",FALSE,Villanova
+2016,16,Oregon,Duke,1,13,9,2,0.82,60,4,15.6,8,11,0.42,8,"Anaheim, CA",TRUE,Oregon
+2016,16,Texas A&M,Oklahoma,3,13,8,4,0.67,56,2,14.9,13,6,0.68,2,"Anaheim, CA",FALSE,Oklahoma
+2016,16,North Carolina,Indiana,1,18.7,14,5,0.74,11,5,15.8,9,5,0.64,59,"Philadelphia, PA",TRUE,North Carolina
+2016,16,Notre Dame,Wisconsin,6,11,9,9,0.5,6,7,9.8,9,7,0.56,18,"Philadelphia, PA",TRUE,Notre Dame
+2016,16,Virginia,Iowa State,1,18.6,15,6,0.71,1,4,12.8,5,10,0.33,7,"Chicago, IL",TRUE,Virginia
+2016,16,Gonzaga,Syracuse,11,12.5,6,7,0.46,89,10,11,8,12,0.4,12,"Chicago, IL",FALSE,Syracuse
+2016,8,Kansas,Villanova,1,18.5,14,4,0.78,10,2,19.9,11,4,0.73,27,"Louisville, KY",FALSE,Villanova
+2016,8,Oregon,Oklahoma,1,13,9,2,0.82,60,2,14.9,13,6,0.68,2,"Anaheim, CA",FALSE,Oklahoma
+2016,8,North Carolina,Notre Dame,1,18.7,14,5,0.74,11,6,11,9,9,0.5,6,"Philadelphia, PA",TRUE,North Carolina
+2016,8,Virginia,Syracuse,1,18.6,15,6,0.71,1,10,11,8,12,0.4,12,"Chicago, IL",FALSE,Syracuse
+2016,4,Villanova,Oklahoma,2,19.9,11,4,0.73,27,2,14.9,13,6,0.68,2,"Houston, TX",TRUE,Villanova
+2016,4,North Carolina,Syracuse,1,18.7,14,5,0.74,11,10,11,8,12,0.4,12,"Houston, TX",TRUE,North Carolina
+2016,2,Villanova,North Carolina,2,19.9,11,4,0.73,27,1,18.7,14,5,0.74,11,"Houston, TX",TRUE,Villanova

@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2019,64,Duke,North Dakota State,1,21.3,16,6,0.73,6,16,-1.5,0,3,0,165,"Columbia, SC",TRUE,Duke
+2019,64,VCU,UCF,8,10,1,2,0.33,98,9,10.5,3,3,0.5,71,"Columbia, SC",FALSE,UCF
+2019,64,Mississippi State,Liberty,5,12.9,6,6,0.5,30,12,7.5,3,2,0.6,204,"San Jose, CA",FALSE,Liberty
+2019,64,Virginia Tech,Saint Louis,4,16.5,4,9,0.31,37,13,4.5,0,4,0,95,"San Jose, CA",TRUE,Virginia Tech
+2019,64,Maryland,Belmont,6,12,10,9,0.53,24,11,9.4,3,3,0.5,147,"Jacksonville, FL",TRUE,Maryland
+2019,64,LSU,Yale,3,12.7,7,5,0.58,39,14,6.4,0,2,0,152,"Jacksonville, FL",TRUE,LSU
+2019,64,Louisville,Minnesota,7,13.4,6,11,0.35,10,10,8.1,9,11,0.45,13,"Des Moines, IA",FALSE,Minnesota
+2019,64,Michigan State,Bradley,2,19.8,19,6,0.76,1,15,-0.4,1,1,0.5,226,"Des Moines, IA",TRUE,Michigan State
+2019,64,Gonzaga,Fairleigh Dickinson,1,23.1,6,4,0.6,74,16,-1.5,0,1,0,318,"Salt Lake City, UT",TRUE,Gonzaga
+2019,64,Syracuse,Baylor,8,10.5,4,11,0.27,33,9,10.3,9,9,0.5,27,"Salt Lake City, UT",FALSE,Baylor
+2019,64,Marquette,Murray State,5,11.5,6,5,0.55,59,12,9,2,3,0.4,193,"Hartford, CT",FALSE,Murray State
+2019,64,Florida State,Vermont,4,14.6,12,6,0.67,19,13,7.9,0,4,0,220,"Hartford, CT",TRUE,Florida State
+2019,64,Buffalo,Arizona State,6,12.6,1,2,0.33,100,11,7.4,4,4,0.5,70,"Tulsa, OK",TRUE,Buffalo
+2019,64,Texas Tech,Northern Kentucky,3,18.8,15,6,0.71,22,14,5,0,3,0,254,"Tulsa, OK",TRUE,Texas Tech
+2019,64,Nevada,Florida,7,12.9,1,2,0.33,121,10,11.6,3,13,0.19,15,"Des Moines, IA",FALSE,Florida
+2019,64,Michigan,Montana,2,17.8,13,7,0.65,17,15,3,0,2,0,263,"Des Moines, IA",TRUE,Michigan
+2019,64,Virginia,Gardner-Webb,1,23.2,18,3,0.86,11,16,2,0,3,0,205,"Columbia, SC",TRUE,Virginia
+2019,64,Ole Miss,Oklahoma,8,8.7,4,8,0.33,50,9,10.6,7,12,0.37,7,"Columbia, SC",FALSE,Oklahoma
+2019,64,Wisconsin,Oregon,5,14.3,11,9,0.55,4,12,11.6,2,4,0.33,66,"San Jose, CA",FALSE,Oregon
+2019,64,Kansas State,UC Irvine,4,12.7,11,6,0.65,32,13,5.5,2,2,0.5,213,"San Jose, CA",FALSE,UC Irvine
+2019,64,Villanova,Saint Mary's,6,12.5,5,4,0.56,52,11,10.4,1,6,0.14,77,"Hartford, CT",TRUE,Villanova
+2019,64,Purdue,Old Dominion,3,17.4,15,7,0.68,3,14,3.6,2,1,0.67,235,"Hartford, CT",TRUE,Purdue
+2019,64,Cincinnati,Iowa,7,11.8,2,6,0.25,65,10,10.5,9,10,0.47,25,"Columbus, OH",FALSE,Iowa
+2019,64,Tennessee,Colgate,2,17.1,9,6,0.6,31,15,2.6,0,3,0,225,"Columbus, OH",TRUE,Tennessee
+2019,64,North Carolina,Iona,1,18.9,12,7,0.63,5,16,-0.8,0,2,0,274,"Columbus, OH",TRUE,North Carolina
+2019,64,Utah State,Washington,8,8.9,2,2,0.5,115,9,8.7,2,6,0.25,64,"Columbus, OH",FALSE,Washington
+2019,64,Auburn,New Mexico State,5,16.4,9,7,0.56,20,12,7.9,0,3,0,270,"Salt Lake City, UT",TRUE,Auburn
+2019,64,Kansas,Northeastern,4,14.2,15,8,0.65,2,13,5,0,3,0,111,"Salt Lake City, UT",TRUE,Kansas
+2019,64,Iowa State,Ohio State,6,14.5,9,10,0.47,28,11,9.8,8,12,0.4,14,"Tulsa, OK",FALSE,Ohio State
+2019,64,Houston,Georgia State,3,15.9,7,3,0.7,76,14,3.5,0,3,0,122,"Tulsa, OK",TRUE,Houston
+2019,64,Wofford,Seton Hall,7,14.3,0,5,0,94,10,7.7,7,6,0.54,38,"Jacksonville, FL",TRUE,Wofford
+2019,64,Kentucky,Abilene Christian,2,18.3,12,5,0.71,18,15,1,0,2,0,347,"Jacksonville, FL",TRUE,Kentucky
+2019,32,Duke,UCF,1,21.3,16,6,0.73,6,9,10.5,3,3,0.5,71,"Columbia, SC",TRUE,Duke
+2019,32,Liberty,Virginia Tech,12,7.5,3,2,0.6,204,4,16.5,4,9,0.31,37,"San Jose, CA",FALSE,Virginia Tech
+2019,32,Maryland,LSU,6,12,10,9,0.53,24,3,12.7,7,5,0.58,39,"Jacksonville, FL",FALSE,LSU
+2019,32,Minnesota,Michigan State,10,8.1,9,11,0.45,13,2,19.8,19,6,0.76,1,"Des Moines, IA",FALSE,Michigan State
+2019,32,Gonzaga,Baylor,1,23.1,6,4,0.6,74,9,10.3,9,9,0.5,27,"Salt Lake City, UT",TRUE,Gonzaga
+2019,32,Murray State,Florida State,12,9,2,3,0.4,193,4,14.6,12,6,0.67,19,"Hartford, CT",FALSE,Florida State
+2019,32,Buffalo,Texas Tech,6,12.6,1,2,0.33,100,3,18.8,15,6,0.71,22,"Tulsa, OK",FALSE,Texas Tech
+2019,32,Florida,Michigan,10,11.6,3,13,0.19,15,2,17.8,13,7,0.65,17,"Des Moines, IA",FALSE,Michigan
+2019,32,Virginia,Oklahoma,1,23.2,18,3,0.86,11,9,10.6,7,12,0.37,7,"Columbia, SC",TRUE,Virginia
+2019,32,Oregon,UC Irvine,12,11.6,2,4,0.33,66,13,5.5,2,2,0.5,213,"San Jose, CA",TRUE,Oregon
+2019,32,Villanova,Purdue,6,12.5,5,4,0.56,52,3,17.4,15,7,0.68,3,"Hartford, CT",FALSE,Purdue
+2019,32,Iowa,Tennessee,10,10.5,9,10,0.47,25,2,17.1,9,6,0.6,31,"Columbus, OH",FALSE,Tennessee
+2019,32,North Carolina,Washington,1,18.9,12,7,0.63,5,9,8.7,2,6,0.25,64,"Columbus, OH",TRUE,North Carolina
+2019,32,Auburn,Kansas,5,16.4,9,7,0.56,20,4,14.2,15,8,0.65,2,"Salt Lake City, UT",TRUE,Auburn
+2019,32,Ohio State,Houston,11,9.8,8,12,0.4,14,3,15.9,7,3,0.7,76,"Tulsa, OK",FALSE,Houston
+2019,32,Wofford,Kentucky,7,14.3,0,5,0,94,2,18.3,12,5,0.71,18,"Jacksonville, FL",FALSE,Kentucky
+2019,16,Duke,Virginia Tech,1,21.3,16,6,0.73,6,4,16.5,4,9,0.31,37,"Washington, DC",TRUE,Duke
+2019,16,LSU,Michigan State,3,12.7,7,5,0.58,39,2,19.8,19,6,0.76,1,"Washington, DC",FALSE,Michigan State
+2019,16,Gonzaga,Florida State,1,23.1,6,4,0.6,74,4,14.6,12,6,0.67,19,"Anaheim, CA",TRUE,Gonzaga
+2019,16,Texas Tech,Michigan,3,18.8,15,6,0.71,22,2,17.8,13,7,0.65,17,"Anaheim, CA",TRUE,Texas Tech
+2019,16,Virginia,Oregon,1,23.2,18,3,0.86,11,12,11.6,2,4,0.33,66,"Louisville, KY",TRUE,Virginia
+2019,16,Purdue,Tennessee,3,17.4,15,7,0.68,3,2,17.1,9,6,0.6,31,"Louisville, KY",TRUE,Purdue
+2019,16,North Carolina,Auburn,1,18.9,12,7,0.63,5,5,16.4,9,7,0.56,20,"Kansas City, MO",FALSE,Auburn
+2019,16,Houston,Kentucky,3,15.9,7,3,0.7,76,2,18.3,12,5,0.71,18,"Kansas City, MO",FALSE,Kentucky
+2019,8,Duke,Michigan State,1,21.3,16,6,0.73,6,2,19.8,19,6,0.76,1,"Washington, DC",FALSE,Michigan State
+2019,8,Gonzaga,Texas Tech,1,23.1,6,4,0.6,74,3,18.8,15,6,0.71,22,"Anaheim, CA",FALSE,Texas Tech
+2019,8,Virginia,Purdue,1,23.2,18,3,0.86,11,3,17.4,15,7,0.68,3,"Louisville, KY",TRUE,Virginia
+2019,8,Auburn,Kentucky,5,16.4,9,7,0.56,20,2,18.3,12,5,0.71,18,"Kansas City, MO",TRUE,Auburn
+2019,4,Michigan State,Texas Tech,2,19.8,19,6,0.76,1,3,18.8,15,6,0.71,22,"Minneapolis, MN",FALSE,Texas Tech
+2019,4,Virginia,Auburn,1,23.2,18,3,0.86,11,5,16.4,9,7,0.56,20,"Minneapolis, MN",TRUE,Virginia
+2019,2,Texas Tech,Virginia,3,18.8,15,6,0.71,22,1,23.2,18,3,0.86,11,"Minneapolis, MN",FALSE,Virginia

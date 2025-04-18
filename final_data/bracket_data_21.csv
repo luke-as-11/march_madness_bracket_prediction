@@ -1,0 +1,64 @@
+year,round,team_x,team_y,seed.x,bpi.x,qual_win.x,qual_loss.x,qual_win_perc.x,schdl_strngth.x,seed.y,bpi.y,qual_win.y,qual_loss.y,qual_win_perc.y,schdl_strngth.y,location,team_x_win,team
+2021,64,Gonzaga,Norfolk State,1,21.3,11,1,0.92,72,16,-3.1,0,1,0,302,"Indianapolis, IN",TRUE,Gonzaga
+2021,64,Oklahoma,Missouri,8,11,6,9,0.4,36,9,9,6,7,0.46,18,"Indianapolis, IN",TRUE,Oklahoma
+2021,64,Creighton,UC Santa Barbara,5,13.1,6,3,0.67,55,12,8.1,0,1,0,186,"Indianapolis, IN",TRUE,Creighton
+2021,64,Virginia,Ohio,4,13.9,7,5,0.58,60,13,5.1,1,2,0.33,119,"Indianapolis, IN",FALSE,Ohio
+2021,64,USC,Drake,6,14.3,7,6,0.54,48,11,7.3,1,3,0.25,160,"Indianapolis, IN",TRUE,USC
+2021,64,Kansas,Eastern Washington,3,12,8,9,0.47,31,14,4,0,3,0,185,"Indianapolis, IN",TRUE,Kansas
+2021,64,Oregon,VCU,7,11.2,6,4,0.6,61,10,8.2,3,4,0.43,84,"Indianapolis, IN",TRUE,Oregon
+2021,64,Iowa,Grand Canyon,2,17,10,8,0.56,16,15,6.4,0,2,0,225,"Indianapolis, IN",TRUE,Iowa
+2021,64,Michigan,Texas Southern,1,17.4,13,3,0.81,15,16,-1.8,0,3,0,194,"West Lafayette, IN",TRUE,Michigan
+2021,64,LSU,St. Bonaventure,8,12.6,7,8,0.47,22,9,11.3,1,2,0.33,89,"West Lafayette, IN",TRUE,LSU
+2021,64,Colorado,Georgetown,5,13.1,6,5,0.55,63,12,7.1,5,9,0.36,17,"Indianapolis, IN",TRUE,Colorado
+2021,64,Florida State,UNC Greensboro,4,12.7,9,5,0.64,39,13,5.4,0,1,0,191,"Indianapolis, IN",TRUE,Florida State
+2021,64,Brigham Young,UCLA,6,11.1,1,5,0.17,78,11,11.4,6,7,0.46,28,"Indianapolis, IN",FALSE,UCLA
+2021,64,Texas,Abilene Christian,3,12.4,9,7,0.56,23,14,5.8,1,3,0.25,222,"Indianapolis, IN",FALSE,Abilene Christian
+2021,64,UConn,Maryland,7,12.5,2,6,0.25,53,10,9.7,5,13,0.28,14,"West Lafayette, IN",FALSE,Maryland
+2021,64,Alabama,Iona,2,14.4,9,5,0.64,30,15,1.5,0,2,0,241,"West Lafayette, IN",TRUE,Alabama
+2021,64,Baylor,Hartford,1,20.7,14,2,0.88,43,16,-0.5,0,3,0,168,"Indianapolis, IN",TRUE,Baylor
+2021,64,North Carolina,Wisconsin,8,11.7,6,10,0.38,21,9,13.2,7,12,0.37,4,"Indianapolis, IN",FALSE,Wisconsin
+2021,64,Villanova,Winthrop,5,15.1,5,3,0.63,47,12,5.8,0,1,0,307,"Indianapolis, IN",TRUE,Villanova
+2021,64,Purdue,North Texas,4,11.6,8,7,0.53,13,13,7.2,1,4,0.2,101,"Indianapolis, IN",FALSE,North Texas
+2021,64,Texas Tech,Utah State,6,14.4,5,11,0.31,45,11,8.5,2,3,0.4,111,"Bloomington, IN",TRUE,Texas Tech
+2021,64,Arkansas,Colgate,3,13.5,9,7,0.56,23,14,8.5,0,1,0,279,"Bloomington, IN",TRUE,Arkansas
+2021,64,Florida,Virginia Tech,7,10.3,5,6,0.45,27,10,9.6,4,5,0.44,76,"Indianapolis, IN",TRUE,Florida
+2021,64,Ohio State,Oral Roberts,2,14.2,12,6,0.67,9,15,1.4,2,5,0.29,121,"Indianapolis, IN",FALSE,Oral Roberts
+2021,64,Illinois,Drexel,1,17.6,14,6,0.7,5,16,0.9,0,1,0,220,"Indianapolis, IN",TRUE,Illinois
+2021,64,Loyola (IL),Georgia Tech,8,13.2,2,1,0.67,128,9,9.9,7,6,0.54,50,"Indianapolis, IN",TRUE,Loyola (IL)
+2021,64,Tennessee,Oregon State,5,13.3,6,6,0.5,57,12,7.5,8,8,0.5,46,"Indianapolis, IN",FALSE,Oregon State
+2021,64,Oklahoma State,Liberty,4,10.2,10,6,0.63,20,13,6.4,0,3,0,253,"Indianapolis, IN",TRUE,Oklahoma State
+2021,64,San Diego State,Syracuse,6,12.2,1,2,0.33,115,11,10.9,8,8,0.5,41,"Indianapolis, IN",FALSE,Syracuse
+2021,64,West Virginia,Morehead State,3,12,5,10,0.33,26,14,0.3,0,3,0,163,"Indianapolis, IN",TRUE,West Virginia
+2021,64,Clemson,Rutgers,7,9.5,8,7,0.53,34,10,9.6,8,10,0.44,2,"Indianapolis, IN",FALSE,Rutgers
+2021,64,Houston,Cleveland State,2,18.3,5,1,0.83,99,15,-1.8,0,2,0,184,"Indianapolis, IN",TRUE,Houston
+2021,32,Gonzaga,Oklahoma,1,21.3,11,1,0.92,72,8,11,6,9,0.4,36,"Indianapolis, IN",TRUE,Gonzaga
+2021,32,Creighton,Ohio,5,13.1,6,3,0.67,55,13,5.1,1,2,0.33,119,"Indianapolis, IN",TRUE,Creighton
+2021,32,USC,Kansas,6,14.3,7,6,0.54,48,3,12,8,9,0.47,31,"Indianapolis, IN",TRUE,USC
+2021,32,Oregon,Iowa,7,11.2,6,4,0.6,61,2,17,10,8,0.56,16,"Indianapolis, IN",TRUE,Oregon
+2021,32,Michigan,LSU,1,17.4,13,3,0.81,15,8,12.6,7,8,0.47,22,"West Lafayette, IN",TRUE,Michigan
+2021,32,Colorado,Florida State,5,13.1,6,5,0.55,63,4,12.7,9,5,0.64,39,"Indianapolis, IN",FALSE,Florida State
+2021,32,UCLA,Abilene Christian,11,11.4,6,7,0.46,28,14,5.8,1,3,0.25,222,"Indianapolis, IN",TRUE,UCLA
+2021,32,Maryland,Alabama,10,9.7,5,13,0.28,14,2,14.4,9,5,0.64,30,"West Lafayette, IN",FALSE,Alabama
+2021,32,Baylor,Wisconsin,1,20.7,14,2,0.88,43,9,13.2,7,12,0.37,4,"Indianapolis, IN",TRUE,Baylor
+2021,32,Villanova,North Texas,5,15.1,5,3,0.63,47,13,7.2,1,4,0.2,101,"Indianapolis, IN",TRUE,Villanova
+2021,32,Texas Tech,Arkansas,6,14.4,5,11,0.31,45,3,13.5,9,7,0.56,23,"Bloomington, IN",FALSE,Arkansas
+2021,32,Florida,Oral Roberts,7,10.3,5,6,0.45,27,15,1.4,2,5,0.29,121,"Indianapolis, IN",FALSE,Oral Roberts
+2021,32,Illinois,Loyola (IL),1,17.6,14,6,0.7,5,8,13.2,2,1,0.67,128,"Indianapolis, IN",FALSE,Loyola (IL)
+2021,32,Oregon State,Oklahoma State,12,7.5,8,8,0.5,46,4,10.2,10,6,0.63,20,"Indianapolis, IN",TRUE,Oregon State
+2021,32,Syracuse,West Virginia,11,10.9,8,8,0.5,41,3,12,5,10,0.33,26,"Indianapolis, IN",TRUE,Syracuse
+2021,32,Rutgers,Houston,10,9.6,8,10,0.44,2,2,18.3,5,1,0.83,99,"Indianapolis, IN",FALSE,Houston
+2021,16,Gonzaga,Creighton,1,21.3,11,1,0.92,72,5,13.1,6,3,0.67,55,"Indianapolis, IN",TRUE,Gonzaga
+2021,16,USC,Oregon,6,14.3,7,6,0.54,48,7,11.2,6,4,0.6,61,"Indianapolis, IN",TRUE,USC
+2021,16,Michigan,Florida State,1,17.4,13,3,0.81,15,4,12.7,9,5,0.64,39,"Indianapolis, IN",TRUE,Michigan
+2021,16,UCLA,Alabama,11,11.4,6,7,0.46,28,2,14.4,9,5,0.64,30,"Indianapolis, IN",TRUE,UCLA
+2021,16,Baylor,Villanova,1,20.7,14,2,0.88,43,5,15.1,5,3,0.63,47,"Indianapolis, IN",TRUE,Baylor
+2021,16,Arkansas,Oral Roberts,3,13.5,9,7,0.56,23,15,1.4,2,5,0.29,121,"Indianapolis, IN",TRUE,Arkansas
+2021,16,Loyola (IL),Oregon State,8,13.2,2,1,0.67,128,12,7.5,8,8,0.5,46,"Indianapolis, IN",FALSE,Oregon State
+2021,16,Syracuse,Houston,11,10.9,8,8,0.5,41,2,18.3,5,1,0.83,99,"Indianapolis, IN",FALSE,Houston
+2021,8,Gonzaga,USC,1,21.3,11,1,0.92,72,6,14.3,7,6,0.54,48,"Indianapolis, IN",TRUE,Gonzaga
+2021,8,Michigan,UCLA,1,17.4,13,3,0.81,15,11,11.4,6,7,0.46,28,"Indianapolis, IN",FALSE,UCLA
+2021,8,Baylor,Arkansas,1,20.7,14,2,0.88,43,3,13.5,9,7,0.56,23,"Indianapolis, IN",TRUE,Baylor
+2021,8,Oregon State,Houston,12,7.5,8,8,0.5,46,2,18.3,5,1,0.83,99,"Indianapolis, IN",FALSE,Houston
+2021,4,Gonzaga,UCLA,1,21.3,11,1,0.92,72,11,11.4,6,7,0.46,28,"Indianapolis, IN",TRUE,Gonzaga
+2021,4,Baylor,Houston,1,20.7,14,2,0.88,43,2,18.3,5,1,0.83,99,"Indianapolis, IN",TRUE,Baylor
+2021,2,Gonzaga,Baylor,1,21.3,11,1,0.92,72,1,20.7,14,2,0.88,43,"Indianapolis, IN",FALSE,Baylor

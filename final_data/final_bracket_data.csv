@@ -1,0 +1,631 @@
+year,round,team_x,team_y,diff_seed,diff_bpi,diff_qual_win,diff_qual_loss,diff_qual_win_perc,diff_schdl_strength,diff_dist,location,team_x_win,team
+2024,64,UConn,Stetson,-15,24.1,19,-1,0.9,-199,-785.6760771,"Brooklyn, NY",TRUE,UConn
+2024,64,Florida Atlantic,Northwestern,-1,0.7,-4,-7,0.16,56,329.17282,"Brooklyn, NY",FALSE,Northwestern
+2024,64,San Diego State,UAB,-7,7.4,2,3,0.08,-28,-838.2933972,"Spokane, WA",TRUE,San Diego State
+2024,64,Auburn,Yale,-9,10.9,5,3,0.25,-46,-244.6920899,"Spokane, WA",FALSE,Yale
+2024,64,Brigham Young,Duquesne,-5,7.6,5,4,0.14,-35,-22.92437255,"Omaha, NE",FALSE,Duquesne
+2024,64,Illinois,Morehead State,-11,11.3,12,3,0.63,-262,-287.2175299,"Omaha, NE",TRUE,Illinois
+2024,64,Washington State,Drake,-3,1.3,3,3,0,-54,984.1034466,"Omaha, NE",TRUE,Washington State
+2024,64,Iowa State,South Dakota State,-13,17.2,13,6,0.65,-261,-77.21674506,"Omaha, NE",TRUE,Iowa State
+2024,64,North Carolina,Wagner,-15,22.5,12,4,0.67,-298,-408.0865868,"Charlotte, NC",TRUE,North Carolina
+2024,64,Mississippi State,Michigan State,-1,-2.7,0,-3,0.07,18,-84.66992724,"Charlotte, NC",FALSE,Michigan State
+2024,64,Saint Mary's,Grand Canyon,-7,5,1,3,-0.24,-68,-294.2230277,"Spokane, WA",FALSE,Grand Canyon
+2024,64,Alabama,Charleston,-9,10.7,8,10,0.4,-174,-353.6053345,"Spokane, WA",TRUE,Alabama
+2024,64,Clemson,New Mexico,-5,3.8,6,1,0.22,-66,-535.9381277,"Memphis, TN",TRUE,Clemson
+2024,64,Baylor,Colgate,-11,11.3,11,7,0.52,-224,-452.5607959,"Memphis, TN",TRUE,Baylor
+2024,64,Dayton,Nevada,-3,2.7,-1,-2,0.02,-13,1032.021685,"Salt Lake City, UT",TRUE,Dayton
+2024,64,Arizona,Long Beach State,-13,18.8,9,3,0.64,-160,7.375001609,"Salt Lake City, UT",TRUE,Arizona
+2024,64,Houston,Longwood,-15,22,16,3,0.76,-239,-177.2632017,"Memphis, TN",TRUE,Houston
+2024,64,Nebraska,Texas A&M,-1,-0.8,-3,1,-0.15,44,55.02417754,"Memphis, TN",FALSE,Texas A&M
+2024,64,Wisconsin,James Madison,-7,4.4,8,8,-0.14,-220,507.902372,"Brooklyn, NY",FALSE,James Madison
+2024,64,Duke,Vermont,-9,11.7,8,5,0.53,-147,152.1749206,"Brooklyn, NY",TRUE,Duke
+2024,64,Texas Tech,NC State,-5,1.6,0,-1,0.03,7,969.2700321,"Pittsburgh, PA",FALSE,NC State
+2024,64,Kentucky,Oakland,-11,10,6,1,0.37,-69,66.79699618,"Pittsburgh, PA",FALSE,Oakland
+2024,64,Florida,Colorado,-3,2.4,1,3,-0.08,-42,-281.2473841,"Indianapolis, IN",FALSE,Colorado
+2024,64,Marquette,Western Kentucky,-13,14.7,12,7,0.6,-272,51.50318503,"Indianapolis, IN",TRUE,Marquette
+2024,64,Purdue,Grambling State,-15,26.7,17,-1,0.77,-187,-559.0701122,"Indianapolis, IN",TRUE,Purdue
+2024,64,Utah State,TCU,-1,-4,-1,-6,0.18,54,559.0979039,"Indianapolis, IN",TRUE,Utah State
+2024,64,Gonzaga,McNeese State,-7,6.4,3,5,0.33,-242,-730.1176208,"Salt Lake City, UT",TRUE,Gonzaga
+2024,64,Kansas,Samford,-9,7,10,6,0.56,-262,-576.5248348,"Salt Lake City, UT",TRUE,Kansas
+2024,64,South Carolina,Oregon,-5,-0.3,3,-3,0.25,-2,-1751.946557,"Pittsburgh, PA",FALSE,Oregon
+2024,64,Creighton,Akron,-11,12.4,8,6,0.53,-158,749.5783485,"Pittsburgh, PA",TRUE,Creighton
+2024,64,Texas,Colorado State,-3,4.8,1,4,-0.07,-61,-329.2050235,"Charlotte, NC",TRUE,Texas
+2024,64,Tennessee,Saint Peter's,-13,20.3,11,7,0.58,-244,-346.8079157,"Charlotte, NC",TRUE,Tennessee
+2024,32,UConn,Northwestern,-8,12.4,12,-7,0.46,-20,-600.1716247,"Brooklyn, NY",TRUE,UConn
+2024,32,San Diego State,Yale,-8,3.5,2,3,0.08,-32,-1181.862682,"Spokane, WA",TRUE,San Diego State
+2024,32,Duquesne,Illinois,8,-10.4,-10,-3,-0.3,69,426.3427371,"Omaha, NE",FALSE,Illinois
+2024,32,Washington State,Iowa State,5,-8.1,-8,-2,-0.15,59,976.2969616,"Omaha, NE",FALSE,Iowa State
+2024,32,North Carolina,Michigan State,-8,3.2,7,-6,0.38,6,-444.7680852,"Charlotte, NC",TRUE,North Carolina
+2024,32,Grand Canyon,Alabama,8,-7.2,-6,-11,0.27,175,-832.3947513,"Spokane, WA",FALSE,Alabama
+2024,32,Clemson,Baylor,3,-2.2,-2,-4,0.08,21,-77.15306103,"Memphis, TN",TRUE,Clemson
+2024,32,Dayton,Arizona,5,-6.7,-7,-2,-0.24,29,859.5556594,"Salt Lake City, UT",FALSE,Arizona
+2024,32,Houston,Texas A&M,-8,11.5,8,-2,0.23,-3,2.632638923,"Memphis, TN",TRUE,Houston
+2024,32,James Madison,Duke,8,-9,-6,-6,0.14,179,-116.1658584,"Brooklyn, NY",FALSE,Duke
+2024,32,NC State,Oakland,-3,7.5,6,5,0.24,-104,101.8639979,"Pittsburgh, PA",TRUE,NC State
+2024,32,Colorado,Marquette,8,-5.6,-6,-3,-0.05,65,765.8764531,"Indianapolis, IN",FALSE,Marquette
+2024,32,Purdue,Utah State,-7,12.9,12,1,0.21,-90,-1286.353366,"Indianapolis, IN",TRUE,Purdue
+2024,32,Gonzaga,Kansas,1,2.2,-7,-2,-0.23,78,-343.6047877,"Salt Lake City, UT",TRUE,Gonzaga
+2024,32,Oregon,Creighton,8,-7.9,-4,1,-0.2,48,1355.827187,"Pittsburgh, PA",FALSE,Creighton
+2024,32,Texas,Tennessee,5,-5.4,-5,2,-0.2,14,856.4677693,"Charlotte, NC",FALSE,Tennessee
+2024,16,UConn,San Diego State,-4,11.6,16,-4,0.57,-62,-2504.987237,"Boston, MA",TRUE,UConn
+2024,16,Illinois,Iowa State,1,-1.9,-1,0,-0.02,-3,-246.477529,"Boston, MA",TRUE,Illinois
+2024,16,North Carolina,Alabama,-3,0.8,4,-6,0.27,15,446.6564033,"Los Angeles, CA",FALSE,Alabama
+2024,16,Clemson,Arizona,4,-5.3,0,1,-0.04,-27,1564.699493,"Los Angeles, CA",TRUE,Clemson
+2024,16,Houston,Duke,-3,5.1,8,-2,0.23,-32,-818.2846337,"Dallas, TX",FALSE,Duke
+2024,16,NC State,Marquette,9,-5.2,-5,2,-0.19,19,198.6317699,"Dallas, TX",TRUE,NC State
+2024,16,Purdue,Gonzaga,-4,5.4,14,-1,0.44,-83,-1463.577223,"Detroit, MI",TRUE,Purdue
+2024,16,Creighton,Tennessee,1,-1.3,-3,-1,-0.05,15,225.3871569,"Detroit, MI",FALSE,Tennessee
+2024,8,UConn,Illinois,-2,6.4,7,-5,0.27,-5,-836.1154317,"Boston, MA",TRUE,UConn
+2024,8,Alabama,Clemson,-2,3.3,-1,6,-0.2,-24,-249.3676907,"Los Angeles, CA",TRUE,Alabama
+2024,8,Duke,NC State,-7,7.8,1,-3,0.12,16,-13.2582197,"Dallas, TX",FALSE,NC State
+2024,8,Purdue,Tennessee,-1,2.2,6,-3,0.19,-9,-206.635167,"Detroit, MI",TRUE,Purdue
+2024,4,UConn,Alabama,-3,6.5,11,-10,0.5,11,816.1246003,"Glendale, AZ",TRUE,UConn
+2024,4,NC State,Purdue,10,-10.2,-10,5,-0.36,27,436.8210243,"Glendale, AZ",FALSE,Purdue
+2024,2,UConn,Purdue,0,2.4,2,-3,0.13,12,769.2490281,"Glendale, AZ",TRUE,UConn
+2023,64,Alabama,Texas A&M-CC,-15,20.9,15,1,0.75,-318,-699.3176556,"Birmingham, AL",TRUE,Alabama
+2023,64,Maryland,West Virginia,-1,-0.1,2,-3,0.12,23,98.61802769,"Birmingham, AL",TRUE,Maryland
+2023,64,San Diego State,Charleston,-7,4.4,8,3,0.62,-247,1829.364681,"Orlando, FL",TRUE,San Diego State
+2023,64,Virginia,Furman,-9,6.9,5,1,0.35,-191,237.5093199,"Orlando, FL",FALSE,Furman
+2023,64,Creighton,NC State,-5,4.9,3,3,0.07,-49,-978.6899308,"Denver, CO",TRUE,Creighton
+2023,64,Baylor,UC Santa Barbara,-11,11.5,10,10,0.48,-289,-184.2838031,"Denver, CO",TRUE,Baylor
+2023,64,Missouri,Utah State,-3,-1.2,7,4,0.2,-51,1011.567302,"Sacramento, CA",TRUE,Missouri
+2023,64,Arizona,Princeton,-13,9.7,7,1,0.3,-82,-1729.665006,"Sacramento, CA",FALSE,Princeton
+2023,64,Purdue,Fairleigh Dickinson,-15,20,15,4,0.26,-321,-264.141852,"Columbus, OH",FALSE,Fairleigh Dickinson
+2023,64,Memphis,Florida Atlantic,-1,0.5,4,4,-0.17,-56,-445.9698786,"Columbus, OH",FALSE,Florida Atlantic
+2023,64,Duke,Oral Roberts,-7,7.3,8,2,0.4,-216,-462.9164206,"Orlando, FL",TRUE,Duke
+2023,64,Tennessee,Louisiana,-9,13.7,9,4,0.6,-129,-115.4191973,"Orlando, FL",TRUE,Tennessee
+2023,64,Kentucky,Providence,-5,2.1,4,-2,0.25,-15,-311.8256002,"Greensboro, NC",TRUE,Kentucky
+2023,64,Kansas State,Montana State,-11,8,11,4,0.61,-185,-806.5642913,"Greensboro, NC",TRUE,Kansas State
+2023,64,Michigan State,USC,-3,2.2,8,5,0.23,-58,-1777.335731,"Columbus, OH",TRUE,Michigan State
+2023,64,Marquette,Vermont,-13,9.4,8,4,0.57,-119,-253.6085957,"Columbus, OH",TRUE,Marquette
+2023,64,Houston,Northern Kentucky,-15,19.1,10,1,0.46,-139,165.2877773,"Birmingham, AL",TRUE,Houston
+2023,64,Iowa,Auburn,-1,-0.8,5,-1,0.2,-3,520.0247499,"Birmingham, AL",FALSE,Auburn
+2023,64,Miami (FL),Drake,-7,2.9,9,4,0.17,-128,212.4327271,"Albany, NY",TRUE,Miami (FL)
+2023,64,Indiana,Kent State,-9,5.2,10,9,0.45,-145,304.0935987,"Albany, NY",TRUE,Indiana
+2023,64,Iowa State,Pittsburgh,-5,3.3,1,5,-0.15,-66,544.7893922,"Greensboro, NC",FALSE,Pittsburgh
+2023,64,Xavier,Kennesaw State,-11,10.4,7,4,0.16,-136,25.08544552,"Greensboro, NC",TRUE,Xavier
+2023,64,Texas A&M,Penn State,-3,1.5,-5,-1,-0.12,35,-46.20591053,"Des Moines, IA",FALSE,Penn State
+2023,64,Texas,Colgate,-13,12.5,16,6,0.67,-300,-114.9674918,"Des Moines, IA",TRUE,Texas
+2023,64,Kansas,Howard,-15,17.8,15,6,0.65,-280,-693.2399486,"Des Moines, IA",TRUE,Kansas
+2023,64,Arkansas,Illinois,-1,1.5,0,-1,0.02,-11,84.83039594,"Des Moines, IA",TRUE,Arkansas
+2023,64,Saint Mary's,VCU,-7,3.5,2,2,0.33,-24,2132.808392,"Albany, NY",TRUE,Saint Mary's
+2023,64,UConn,Iona,-9,10.2,13,5,0.68,-242,-21.08069416,"Albany, NY",TRUE,UConn
+2023,64,TCU,Arizona State,-5,3.9,6,5,0.12,-45,49.80496184,"Denver, CO",TRUE,TCU
+2023,64,Gonzaga,Grand Canyon,-11,9.9,6,4,-0.05,-81,245.0230463,"Denver, CO",TRUE,Gonzaga
+2023,64,Northwestern,Boise State,-3,1.2,7,5,0.1,-57,1343.72242,"Sacramento, CA",TRUE,Northwestern
+2023,64,UCLA,UNC Asheville,-13,16.5,6,3,0.25,-204,-1789.669369,"Sacramento, CA",TRUE,UCLA
+2023,32,Alabama,Maryland,-7,6.9,7,-5,0.31,-16,-620.1850661,"Birmingham, AL",TRUE,Alabama
+2023,32,San Diego State,Furman,-8,7.6,7,2,0.37,-198,1696.441086,"Orlando, FL",TRUE,San Diego State
+2023,32,Creighton,Baylor,3,0.7,-4,-2,-0.08,12,-237.2644175,"Denver, CO",TRUE,Creighton
+2023,32,Missouri,Princeton,-8,3.7,8,7,0.03,-93,-907.5290904,"Sacramento, CA",FALSE,Princeton
+2023,32,Fairleigh Dickinson,Florida Atlantic,7,-15.6,-2,0,-0.25,240,-481.4139317,"Columbus, OH",FALSE,Florida Atlantic
+2023,32,Duke,Tennessee,1,-5.3,0,0,0,5,-2.177639262,"Orlando, FL",FALSE,Tennessee
+2023,32,Kentucky,Kansas State,3,1.1,-4,0,-0.11,9,-653.1536125,"Greensboro, NC",FALSE,Kansas State
+2023,32,Michigan State,Marquette,5,-2.8,2,5,-0.09,-30,-128.1451445,"Columbus, OH",TRUE,Michigan State
+2023,32,Houston,Auburn,-8,8.9,6,-7,0.46,57,469.0378487,"Birmingham, AL",TRUE,Houston
+2023,32,Miami (FL),Indiana,1,-0.8,0,-7,0.22,28,522.26581,"Albany, NY",TRUE,Miami (FL)
+2023,32,Pittsburgh,Xavier,8,-4.2,-1,-2,0.06,44,-31.13610775,"Greensboro, NC",FALSE,Xavier
+2023,32,Penn State,Texas,8,-6.6,-5,0,-0.09,7,7.590149825,"Des Moines, IA",FALSE,Texas
+2023,32,Kansas,Arkansas,-7,2.1,9,-3,0.3,-18,-180.9970364,"Des Moines, IA",FALSE,Arkansas
+2023,32,Saint Mary's,UConn,1,-6.7,-11,-2,-0.35,73,2438.79999,"Albany, NY",FALSE,UConn
+2023,32,TCU,Gonzaga,3,-3.3,1,6,-0.17,-56,-191.3679578,"Denver, CO",FALSE,Gonzaga
+2023,32,Northwestern,UCLA,5,-7.4,3,4,-0.05,-23,1433.888416,"Sacramento, CA",FALSE,UCLA
+2023,16,Alabama,San Diego State,-4,6.3,7,0,0.13,-40,-1444.28659,"Louisville, KY",FALSE,San Diego State
+2023,16,Creighton,Princeton,-9,10,5,8,-0.1,-115,-13.64452151,"Louisville, KY",TRUE,Creighton
+2023,16,Florida Atlantic,Tennessee,5,-7.3,-6,-5,0.15,72,417.9478176,"New York, NY",TRUE,Florida Atlantic
+2023,16,Kansas State,Michigan State,-4,0.6,1,-4,0.13,18,641.0222285,"New York, NY",TRUE,Kansas State
+2023,16,Houston,Miami (FL),-4,9,1,-2,0.12,36,-597.0213262,"Kansas City, MO",FALSE,Miami (FL)
+2023,16,Xavier,Texas,1,-4.3,-7,-1,-0.11,18,-97.84534995,"Kansas City, MO",FALSE,Texas
+2023,16,Arkansas,UConn,4,-6.3,-7,5,-0.33,3,-1142.758981,"Las Vegas, NV",FALSE,UConn
+2023,16,Gonzaga,UCLA,1,-2.9,1,0,0.04,19,568.3483162,"Las Vegas, NV",TRUE,Gonzaga
+2023,8,San Diego State,Creighton,-1,-1.9,2,-4,0.22,34,1208.212299,"Louisville, KY",TRUE,San Diego State
+2023,8,Florida Atlantic,Kansas State,6,-0.4,-8,-6,0.14,88,-152.0121101,"New York, NY",TRUE,Florida Atlantic
+2023,8,Miami (FL),Texas,3,-5.3,-6,-3,0,34,607.9644169,"Kansas City, MO",TRUE,Miami (FL)
+2023,8,UConn,Gonzaga,1,4,5,1,0.06,-50,1520.294855,"Las Vegas, NV",TRUE,UConn
+2023,4,San Diego State,Florida Atlantic,-4,1.6,5,4,-0.13,-58,338.1097379,"Houston, TX",TRUE,San Diego State
+2023,4,Miami (FL),UConn,1,-7.4,-3,-1,-0.01,25,-567.2189211,"Houston, TX",FALSE,UConn
+2023,2,San Diego State,UConn,1,-6.3,-5,-1,-0.06,36,-234.6820737,"Houston, TX",FALSE,UConn
+2022,64,Gonzaga,Georgia State,-15,19.1,9,2,0.69,-138,-1879.581881,"Portland, OR",TRUE,Gonzaga
+2022,64,Boise State,Memphis,-1,-3.8,-1,-2,0.18,42,-1508.906455,"Portland, OR",FALSE,Memphis
+2022,64,UConn,New Mexico State,-7,9.4,6,5,0.04,-127,-1340.555999,"Buffalo, NY",FALSE,New Mexico State
+2022,64,Arkansas,Vermont,-9,2.8,11,5,0.61,-255,640.7536044,"Buffalo, NY",TRUE,Arkansas
+2022,64,Alabama,Notre Dame,-5,1.8,5,0,0.19,-53,-83.23646095,"San Diego, CA",FALSE,Notre Dame
+2022,64,Texas Tech,Montana State,-11,16.4,12,7,0.6,-328,-63.33510597,"San Diego, CA",TRUE,Texas Tech
+2022,64,Michigan State,Davidson,-3,1.2,6,7,0.16,-107,461.103277,"Greenville, SC",TRUE,Michigan State
+2022,64,Duke,Cal State Fullerton,-13,17.2,11,3,0.69,-243,-1810.464267,"Greenville, SC",TRUE,Duke
+2022,64,Baylor,Norfolk State,-15,16.9,10,5,0.59,-327,-1142.786178,"Fort Worth, TX",TRUE,Baylor
+2022,64,North Carolina,Marquette,-1,5.3,-1,2,-0.09,-8,191.190962,"Fort Worth, TX",TRUE,North Carolina
+2022,64,Saint Mary's,Indiana,-7,1.8,-1,-5,0.12,44,-1348.70109,"Portland, OR",TRUE,Saint Mary's
+2022,64,UCLA,Akron,-9,12,5,3,0.5,-200,-1248.523146,"Portland, OR",TRUE,UCLA
+2022,64,Texas,Virginia Tech,-5,0.7,3,1,0.08,-33,467.8915339,"Milwaukee, WI",TRUE,Texas
+2022,64,Purdue,Yale,-11,15.7,11,1,0.65,-126,-590.2382965,"Milwaukee, WI",TRUE,Purdue
+2022,64,Murray State,San Francisco,-3,-0.3,1,-6,0.54,138,-1700.664607,"Indianapolis, IN",TRUE,Murray State
+2022,64,Kentucky,Saint Peter's,-13,12.9,7,4,0.09,-94,-489.942377,"Indianapolis, IN",FALSE,Saint Peter's
+2022,64,Arizona,Wright State,-15,16.8,7,1,0.7,-222,-1518.239279,"San Diego, CA",TRUE,Arizona
+2022,64,Seton Hall,TCU,-1,-0.9,-3,-1,-0.07,35,1268.282831,"San Diego, CA",FALSE,TCU
+2022,64,Houston,UAB,-7,10.6,5,3,0.5,-86,530.3317104,"Pittsburgh, PA",TRUE,Houston
+2022,64,Illinois,Chattanooga,-9,5.9,9,4,0.6,-122,-31.91986675,"Pittsburgh, PA",TRUE,Illinois
+2022,64,Colorado State,Michigan,-5,-5,-4,-9,0.13,105,785.748749,"Indianapolis, IN",FALSE,Michigan
+2022,64,Tennessee,Longwood,-11,16.2,12,6,0.6,-325,-163.2822266,"Indianapolis, IN",TRUE,Tennessee
+2022,64,Ohio State,Loyola (IL),-3,0.3,7,5,0.25,-92,-250.9635855,"Pittsburgh, PA",TRUE,Ohio State
+2022,64,Villanova,Delaware,-13,16.5,15,4,0.75,-171,16.8132603,"Pittsburgh, PA",TRUE,Villanova
+2022,64,Kansas,Texas Southern,-15,18,15,4,0.4,-196,205.6026126,"Fort Worth, TX",TRUE,Kansas
+2022,64,San Diego State,Creighton,-1,2.8,-6,-6,-0.14,55,557.0353395,"Fort Worth, TX",FALSE,Creighton
+2022,64,Iowa,Richmond,-7,8.5,4,3,0.1,-37,275.4744069,"Buffalo, NY",FALSE,Richmond
+2022,64,Providence,South Dakota State,-9,2.9,9,1,0.75,-194,-514.9798629,"Buffalo, NY",TRUE,Providence
+2022,64,LSU,Iowa State,-5,4.9,-2,-3,0.02,17,593.427504,"Milwaukee, WI",FALSE,Iowa State
+2022,64,Wisconsin,Colgate,-11,7.2,11,2,0.69,-262,-557.2896688,"Milwaukee, WI",TRUE,Wisconsin
+2022,64,USC,Miami (FL),-3,0.7,-5,-1,-0.25,46,1400.808521,"Greenville, SC",FALSE,Miami (FL)
+2022,64,Auburn,Jacksonville State,-13,13.3,10,4,0.63,-213,30.49814023,"Greenville, SC",TRUE,Auburn
+2022,32,Gonzaga,Memphis,-8,8.7,5,1,0.12,14,-1563.980316,"Portland, OR",TRUE,Gonzaga
+2022,32,New Mexico State,Arkansas,8,-8.9,-10,-6,-0.11,145,743.8087965,"Buffalo, NY",FALSE,Arkansas
+2022,32,Notre Dame,Texas Tech,8,-6.7,-8,1,-0.29,39,911.4755172,"San Diego, CA",FALSE,Texas Tech
+2022,32,Michigan State,Duke,5,-6.5,-4,5,-0.28,-30,348.4510383,"Greenville, SC",FALSE,Duke
+2022,32,Baylor,North Carolina,-7,4.6,3,-2,0.15,-5,-981.1593674,"Fort Worth, TX",FALSE,North Carolina
+2022,32,Saint Mary's,UCLA,1,-4.4,0,0,0,22,-288.5006294,"Portland, OR",FALSE,UCLA
+2022,32,Texas,Purdue,3,-2.5,-3,4,-0.21,-13,845.5576869,"Milwaukee, WI",FALSE,Purdue
+2022,32,Murray State,Saint Peter's,-8,5.5,-1,-2,0.17,113,-391.7819762,"Indianapolis, IN",FALSE,Saint Peter's
+2022,32,Arizona,TCU,-8,7.1,-2,-6,0.2,65,-780.7847283,"San Diego, CA",TRUE,Arizona
+2022,32,Houston,Illinois,1,5.9,-4,-1,-0.1,55,700.3866506,"Pittsburgh, PA",TRUE,Houston
+2022,32,Michigan,Tennessee,8,-6.6,-5,4,-0.23,-3,-75.50108018,"Indianapolis, IN",TRUE,Michigan
+2022,32,Ohio State,Villanova,5,-6.1,-7,3,-0.25,8,-84.26264658,"Pittsburgh, PA",FALSE,Villanova
+2022,32,Kansas,Creighton,-8,9.8,9,-2,0.26,-28,-147.9917701,"Fort Worth, TX",TRUE,Kansas
+2022,32,Richmond,Providence,8,-3.7,-7,0,-0.35,29,-8.271015971,"Buffalo, NY",FALSE,Providence
+2022,32,Iowa State,Wisconsin,8,-1.8,-1,6,-0.21,-9,224.863575,"Milwaukee, WI",TRUE,Iowa State
+2022,32,Miami (FL),Auburn,8,-6.5,-3,0,-0.09,-9,407.1049899,"Greenville, SC",TRUE,Miami (FL)
+2022,16,Gonzaga,Arkansas,-3,7.7,-2,-3,0.08,42,-831.3854004,"San Francisco, CA",FALSE,Arkansas
+2022,16,Texas Tech,Duke,1,-0.3,1,3,-0.09,-23,-1202.460836,"San Francisco, CA",FALSE,Duke
+2022,16,North Carolina,UCLA,4,-2.9,2,4,-0.06,-34,-2045.739926,"Philadelphia, PA",TRUE,North Carolina
+2022,16,Purdue,Saint Peter's,-12,11.6,8,3,0.15,-90,548.2934352,"Philadelphia, PA",FALSE,Saint Peter's
+2022,16,Arizona,Houston,-4,-2.2,2,-2,0.2,-2,566.8994901,"San Antonio, TX",FALSE,Houston
+2022,16,Michigan,Villanova,9,-6.2,-8,7,-0.38,-8,-290.3679621,"San Antonio, TX",FALSE,Villanova
+2022,16,Kansas,Providence,-3,6.9,7,3,-0.02,-46,-391.3832106,"Chicago, IL",TRUE,Kansas
+2022,16,Iowa State,Miami (FL),1,0,3,5,-0.06,-23,-887.8136268,"Chicago, IL",FALSE,Miami (FL)
+2022,8,Arkansas,Duke,2,-4,0,2,-0.08,-6,-828.5247948,"San Francisco, CA",FALSE,Duke
+2022,8,North Carolina,Saint Peter's,-7,8.5,4,6,-0.06,-97,278.870234,"Philadelphia, PA",TRUE,North Carolina
+2022,8,Houston,Villanova,3,2.2,-10,0,-0.25,61,-1310.615555,"San Antonio, TX",FALSE,Villanova
+2022,8,Kansas,Miami (FL),-9,8.5,9,0,0.19,-25,-747.6245999,"Chicago, IL",TRUE,Kansas
+2022,4,Duke,North Carolina,-6,3.5,4,-4,0.25,19,8.445774157,"New Orleans, LA",FALSE,North Carolina
+2022,4,Villanova,Kansas,1,0,-1,-1,0.02,1,387.8468137,"New Orleans, LA",FALSE,Kansas
+2022,2,North Carolina,Kansas,7,-4.3,-9,3,-0.29,10,64.04723431,"New Orleans, LA",FALSE,Kansas
+2021,64,Gonzaga,Norfolk State,-15,24.4,11,0,0.92,-230,1071.353052,"Indianapolis, IN",TRUE,Gonzaga
+2021,64,Oklahoma,Missouri,-1,2,0,2,-0.06,18,354.1848453,"Indianapolis, IN",TRUE,Oklahoma
+2021,64,Creighton,UC Santa Barbara,-7,5,6,2,0.67,-131,-1346.682861,"Indianapolis, IN",TRUE,Creighton
+2021,64,Virginia,Ohio,-9,8.8,6,3,0.25,-59,211.3005713,"Indianapolis, IN",FALSE,Ohio
+2021,64,USC,Drake,-5,7,6,3,0.29,-112,1404.894809,"Indianapolis, IN",TRUE,USC
+2021,64,Kansas,Eastern Washington,-11,8,8,6,0.47,-154,-1157.741112,"Indianapolis, IN",TRUE,Kansas
+2021,64,Oregon,VCU,-3,3,3,0,0.17,-23,1416.253924,"Indianapolis, IN",TRUE,Oregon
+2021,64,Iowa,Grand Canyon,-13,10.6,10,6,0.56,-209,-1185.153695,"Indianapolis, IN",TRUE,Iowa
+2021,64,Michigan,Texas Southern,-15,19.2,13,0,0.81,-179,-669.4227045,"West Lafayette, IN",TRUE,Michigan
+2021,64,LSU,St. Bonaventure,-1,1.3,6,6,0.14,-67,277.5830671,"West Lafayette, IN",TRUE,LSU
+2021,64,Colorado,Georgetown,-7,6,1,-4,0.19,46,520.1993481,"Indianapolis, IN",TRUE,Colorado
+2021,64,Florida State,UNC Greensboro,-9,7.3,9,4,0.64,-152,225.2114574,"Indianapolis, IN",TRUE,Florida State
+2021,64,Brigham Young,UCLA,-5,-0.3,-5,-2,-0.29,50,-468.8765433,"Indianapolis, IN",FALSE,UCLA
+2021,64,Texas,Abilene Christian,-11,6.6,8,4,0.31,-199,15.43068217,"Indianapolis, IN",FALSE,Abilene Christian
+2021,64,UConn,Maryland,-3,2.8,-3,-7,-0.03,39,228.7899626,"West Lafayette, IN",FALSE,Maryland
+2021,64,Alabama,Iona,-13,12.9,9,3,0.64,-211,-189.6691452,"West Lafayette, IN",TRUE,Alabama
+2021,64,Baylor,Hartford,-15,21.2,14,-1,0.88,-125,122.5343895,"Indianapolis, IN",TRUE,Baylor
+2021,64,North Carolina,Wisconsin,-1,-1.5,-1,-2,0.01,17,186.5782036,"Indianapolis, IN",FALSE,Wisconsin
+2021,64,Villanova,Winthrop,-7,9.3,5,2,0.63,-260,136.1629998,"Indianapolis, IN",TRUE,Villanova
+2021,64,Purdue,North Texas,-9,4.4,7,3,0.33,-88,-698.6408388,"Indianapolis, IN",FALSE,North Texas
+2021,64,Texas Tech,Utah State,-5,5.9,3,8,-0.09,-66,-401.911719,"Bloomington, IN",TRUE,Texas Tech
+2021,64,Arkansas,Colgate,-11,5,9,6,0.56,-256,-154.2895363,"Bloomington, IN",TRUE,Arkansas
+2021,64,Florida,Virginia Tech,-3,0.7,1,1,0.01,-49,374.7958445,"Indianapolis, IN",TRUE,Florida
+2021,64,Ohio State,Oral Roberts,-13,12.8,10,1,0.38,-112,-420.245497,"Indianapolis, IN",FALSE,Oral Roberts
+2021,64,Illinois,Drexel,-15,16.7,14,5,0.7,-215,-469.0378151,"Indianapolis, IN",TRUE,Illinois
+2021,64,Loyola (IL),Georgia Tech,-1,3.3,-5,-5,0.13,78,-263.0517132,"Indianapolis, IN",TRUE,Loyola (IL)
+2021,64,Tennessee,Oregon State,-7,5.8,-2,-2,0,11,-1625.78608,"Indianapolis, IN",FALSE,Oregon State
+2021,64,Oklahoma State,Liberty,-9,3.8,10,3,0.63,-233,236.3680596,"Indianapolis, IN",TRUE,Oklahoma State
+2021,64,San Diego State,Syracuse,-5,1.3,-7,-6,-0.17,74,1217.018564,"Indianapolis, IN",FALSE,Syracuse
+2021,64,West Virginia,Morehead State,-11,11.7,5,7,0.33,-137,148.0342093,"Indianapolis, IN",TRUE,West Virginia
+2021,64,Clemson,Rutgers,-3,-0.1,0,-3,0.09,32,-223.0903304,"Indianapolis, IN",FALSE,Rutgers
+2021,64,Houston,Cleveland State,-13,20.1,5,-1,0.83,-85,604.6575845,"Indianapolis, IN",TRUE,Houston
+2021,32,Gonzaga,Oklahoma,-7,10.3,5,-8,0.52,36,953.627307,"Indianapolis, IN",TRUE,Gonzaga
+2021,32,Creighton,Ohio,-8,8,5,1,0.34,-64,312.5994611,"Indianapolis, IN",TRUE,Creighton
+2021,32,USC,Kansas,3,2.3,-1,-3,0.07,17,1324.903109,"Indianapolis, IN",TRUE,USC
+2021,32,Oregon,Iowa,5,-5.8,-4,-4,0.04,45,1598.785865,"Indianapolis, IN",TRUE,Oregon
+2021,32,Michigan,LSU,-7,4.8,6,-5,0.34,-7,-522.383928,"West Lafayette, IN",TRUE,Michigan
+2021,32,Colorado,Florida State,1,0.4,-3,0,-0.09,24,358.4855487,"Indianapolis, IN",FALSE,Florida State
+2021,32,UCLA,Abilene Christian,-3,5.6,5,4,0.21,-194,904.2579695,"Indianapolis, IN",TRUE,UCLA
+2021,32,Maryland,Alabama,8,-4.7,-4,8,-0.36,-16,40.82993807,"West Lafayette, IN",FALSE,Alabama
+2021,32,Baylor,Wisconsin,-8,7.5,7,-10,0.51,39,556.359008,"Indianapolis, IN",TRUE,Baylor
+2021,32,Villanova,North Texas,-8,7.9,4,-1,0.43,-54,-187.1961163,"Indianapolis, IN",TRUE,Villanova
+2021,32,Texas Tech,Arkansas,3,0.9,-4,4,-0.25,22,467.70333,"Bloomington, IN",FALSE,Arkansas
+2021,32,Florida,Oral Roberts,-8,8.9,3,1,0.16,-94,142.2290284,"Indianapolis, IN",FALSE,Oral Roberts
+2021,32,Illinois,Loyola (IL),-7,4.4,12,5,0.03,-123,-48.53570346,"Indianapolis, IN",FALSE,Loyola (IL)
+2021,32,Oregon State,Oklahoma State,8,-2.7,-2,2,-0.13,26,1268.554252,"Indianapolis, IN",TRUE,Oregon State
+2021,32,Syracuse,West Virginia,8,-1.1,3,-2,0.17,15,235.4260449,"Indianapolis, IN",TRUE,Syracuse
+2021,32,Rutgers,Houston,8,-8.7,3,9,-0.39,-97,-246.5630742,"Indianapolis, IN",FALSE,Houston
+2021,16,Gonzaga,Creighton,-4,8.2,5,-2,0.25,17,1112.583485,"Indianapolis, IN",TRUE,Gonzaga
+2021,16,USC,Oregon,-1,3.1,1,2,-0.06,-13,-93.92696198,"Indianapolis, IN",TRUE,USC
+2021,16,Michigan,Florida State,-3,4.7,4,-2,0.17,-24,-439.7174479,"Indianapolis, IN",TRUE,Michigan
+2021,16,UCLA,Alabama,9,-3,-3,2,-0.18,-2,1356.571281,"Indianapolis, IN",TRUE,UCLA
+2021,16,Baylor,Villanova,-4,5.6,9,-1,0.25,-4,267.0294469,"Indianapolis, IN",TRUE,Baylor
+2021,16,Arkansas,Oral Roberts,-12,12.1,7,2,0.27,-98,-81.74929548,"Indianapolis, IN",TRUE,Arkansas
+2021,16,Loyola (IL),Oregon State,-4,5.7,-6,-7,0.17,82,-1751.407777,"Indianapolis, IN",FALSE,Oregon State
+2021,16,Syracuse,Houston,9,-7.4,3,7,-0.33,-58,-301.4546576,"Indianapolis, IN",FALSE,Houston
+2021,8,Gonzaga,USC,-5,7,4,-5,0.38,24,-172.3115656,"Indianapolis, IN",TRUE,Gonzaga
+2021,8,Michigan,UCLA,-10,6,7,-4,0.35,-13,-1601.676319,"Indianapolis, IN",FALSE,UCLA
+2021,8,Baylor,Arkansas,-2,7.2,5,-5,0.32,20,333.3972724,"Indianapolis, IN",TRUE,Baylor
+2021,8,Oregon State,Houston,10,-10.8,3,7,-0.33,-53,1048.317626,"Indianapolis, IN",FALSE,Houston
+2021,4,Gonzaga,UCLA,-10,9.9,5,-6,0.46,44,-172.3115656,"Indianapolis, IN",TRUE,Gonzaga
+2021,4,Baylor,Houston,-1,2.4,9,1,0.05,-56,-26.5949731,"Indianapolis, IN",TRUE,Baylor
+2021,2,Gonzaga,Baylor,0,0.6,-3,-1,0.04,29,802.9901922,"Indianapolis, IN",FALSE,Baylor
+2019,64,Duke,North Dakota State,-15,22.8,16,3,0.73,-159,-1040.252067,"Columbia, SC",TRUE,Duke
+2019,64,VCU,UCF,-1,-0.5,-2,-1,-0.17,27,-76.76561041,"Columbia, SC",FALSE,UCF
+2019,64,Mississippi State,Liberty,-7,5.4,3,4,-0.1,-174,-453.6082817,"San Jose, CA",FALSE,Liberty
+2019,64,Virginia Tech,Saint Louis,-9,12,4,5,0.31,-58,544.0651279,"San Jose, CA",TRUE,Virginia Tech
+2019,64,Maryland,Belmont,-5,2.6,7,6,0.03,-123,156.6216285,"Jacksonville, FL",TRUE,Maryland
+2019,64,LSU,Yale,-11,6.3,7,3,0.58,-113,-338.9491333,"Jacksonville, FL",TRUE,LSU
+2019,64,Louisville,Minnesota,-3,5.3,-3,0,-0.1,-3,248.4425019,"Des Moines, IA",FALSE,Minnesota
+2019,64,Michigan State,Bradley,-13,20.2,18,5,0.26,-225,259.1136689,"Des Moines, IA",TRUE,Michigan State
+2019,64,Gonzaga,Fairleigh Dickinson,-15,24.6,6,3,0.6,-244,-1418.208237,"Salt Lake City, UT",TRUE,Gonzaga
+2019,64,Syracuse,Baylor,-1,0.2,-5,2,-0.23,6,796.0702767,"Salt Lake City, UT",FALSE,Baylor
+2019,64,Marquette,Murray State,-7,2.5,4,2,0.15,-134,-124.6208124,"Hartford, CT",FALSE,Murray State
+2019,64,Florida State,Vermont,-9,6.7,12,2,0.67,-201,822.6878977,"Hartford, CT",TRUE,Florida State
+2019,64,Buffalo,Arizona State,-5,5.2,-3,-2,-0.17,30,91.80564992,"Tulsa, OK",TRUE,Buffalo
+2019,64,Texas Tech,Northern Kentucky,-11,13.8,15,3,0.71,-232,-275.3568839,"Tulsa, OK",TRUE,Texas Tech
+2019,64,Nevada,Florida,-3,1.3,-2,-11,0.14,106,344.3457834,"Des Moines, IA",FALSE,Florida
+2019,64,Michigan,Montana,-13,14.8,13,5,0.65,-246,-561.9360652,"Des Moines, IA",TRUE,Michigan
+2019,64,Virginia,Gardner-Webb,-15,21.2,18,0,0.86,-194,213.4409296,"Columbia, SC",TRUE,Virginia
+2019,64,Ole Miss,Oklahoma,-1,-1.9,-3,-4,-0.04,43,-444.3271393,"Columbia, SC",FALSE,Oklahoma
+2019,64,Wisconsin,Oregon,-7,2.7,9,5,0.22,-62,1277.223444,"San Jose, CA",FALSE,Oregon
+2019,64,Kansas State,UC Irvine,-9,7.2,9,4,0.15,-181,1033.313338,"San Jose, CA",FALSE,UC Irvine
+2019,64,Villanova,Saint Mary's,-5,2.1,4,-2,0.42,-25,-2421.76808,"Hartford, CT",TRUE,Villanova
+2019,64,Purdue,Old Dominion,-11,13.8,13,6,0.01,-232,359.5661933,"Hartford, CT",TRUE,Purdue
+2019,64,Cincinnati,Iowa,-3,1.3,-7,-4,-0.22,40,-361.7841503,"Columbus, OH",FALSE,Iowa
+2019,64,Tennessee,Colgate,-13,14.5,9,3,0.6,-194,-147.7563696,"Columbus, OH",TRUE,Tennessee
+2019,64,North Carolina,Iona,-15,19.7,12,5,0.63,-269,-134.7600136,"Columbus, OH",TRUE,North Carolina
+2019,64,Utah State,Washington,-1,0.2,0,-4,0.25,51,-502.746279,"Columbus, OH",FALSE,Washington
+2019,64,Auburn,New Mexico State,-7,8.5,9,4,0.56,-250,913.774854,"Salt Lake City, UT",TRUE,Auburn
+2019,64,Kansas,Northeastern,-9,9.2,15,5,0.65,-109,-1204.423682,"Salt Lake City, UT",TRUE,Kansas
+2019,64,Iowa State,Ohio State,-5,4.7,1,-2,0.07,14,-325.7446751,"Tulsa, OK",FALSE,Ohio State
+2019,64,Houston,Georgia State,-11,12.4,7,0,0.7,-46,-231.0992066,"Tulsa, OK",TRUE,Houston
+2019,64,Wofford,Seton Hall,-3,6.6,-7,-1,-0.54,56,-513.5837884,"Jacksonville, FL",TRUE,Wofford
+2019,64,Kentucky,Abilene Christian,-13,17.3,12,3,0.71,-329,-518.7801962,"Jacksonville, FL",TRUE,Kentucky
+2019,32,Duke,UCF,-8,10.8,13,3,0.23,-65,-209.7278005,"Columbia, SC",TRUE,Duke
+2019,32,Liberty,Virginia Tech,8,-9,-1,-7,0.29,167,63.61496443,"San Jose, CA",FALSE,Virginia Tech
+2019,32,Maryland,LSU,3,-0.7,3,4,-0.05,-15,92.79749845,"Jacksonville, FL",FALSE,LSU
+2019,32,Minnesota,Michigan State,8,-11.7,-10,5,-0.31,12,-239.5465118,"Des Moines, IA",FALSE,Michigan State
+2019,32,Gonzaga,Baylor,-8,12.8,-3,-5,0.1,47,-490.0823845,"Salt Lake City, UT",TRUE,Gonzaga
+2019,32,Murray State,Florida State,8,-5.6,-10,-3,-0.27,174,-103.7817396,"Hartford, CT",FALSE,Florida State
+2019,32,Buffalo,Texas Tech,3,-6.2,-14,-4,-0.38,78,637.9475451,"Tulsa, OK",FALSE,Texas Tech
+2019,32,Florida,Michigan,8,-6.2,-10,6,-0.46,-2,525.6958324,"Des Moines, IA",FALSE,Michigan
+2019,32,Virginia,Oklahoma,-8,12.6,11,-9,0.49,4,-630.487397,"Columbia, SC",TRUE,Virginia
+2019,32,Oregon,UC Irvine,-1,6.1,0,2,-0.17,-147,132.2031975,"San Jose, CA",TRUE,Oregon
+2019,32,Villanova,Purdue,3,-4.9,-10,-3,-0.12,49,-563.8116237,"Hartford, CT",FALSE,Purdue
+2019,32,Iowa,Tennessee,8,-6.6,0,4,-0.13,-6,178.9475049,"Columbus, OH",FALSE,Tennessee
+2019,32,North Carolina,Washington,-8,10.2,10,1,0.38,-59,-1656.388797,"Columbus, OH",TRUE,North Carolina
+2019,32,Auburn,Kansas,1,2.2,-6,-1,-0.09,18,671.7707641,"Salt Lake City, UT",TRUE,Auburn
+2019,32,Ohio State,Houston,8,-6.1,1,9,-0.3,-62,311.9138833,"Tulsa, OK",FALSE,Houston
+2019,32,Wofford,Kentucky,5,-4,-12,0,-0.71,76,-237.1607143,"Jacksonville, FL",FALSE,Kentucky
+2019,16,Duke,Virginia Tech,-3,4.8,12,-3,0.42,-31,8.392750828,"Washington, DC",TRUE,Duke
+2019,16,LSU,Michigan State,1,-7.1,-12,-1,-0.18,38,519.3005835,"Washington, DC",FALSE,Michigan State
+2019,16,Gonzaga,Florida State,-3,8.5,-6,-2,-0.07,55,-1016.456729,"Anaheim, CA",TRUE,Gonzaga
+2019,16,Texas Tech,Michigan,1,1,2,-1,0.06,5,-1015.146459,"Anaheim, CA",TRUE,Texas Tech
+2019,16,Virginia,Oregon,-11,11.6,16,-1,0.53,-55,-1587.024273,"Louisville, KY",TRUE,Virginia
+2019,16,Purdue,Tennessee,1,0.3,6,1,0.08,-28,-6.920512974,"Louisville, KY",TRUE,Purdue
+2019,16,North Carolina,Auburn,-4,2.5,3,0,0.07,-15,199.6698618,"Kansas City, MO",FALSE,Auburn
+2019,16,Houston,Kentucky,1,-2.4,-5,-2,-0.01,58,96.96833322,"Kansas City, MO",FALSE,Kentucky
+2019,8,Duke,Michigan State,-1,1.5,-3,0,-0.03,5,-245.0843606,"Washington, DC",FALSE,Michigan State
+2019,8,Gonzaga,Texas Tech,-2,4.3,-9,-2,-0.11,52,38.51245303,"Anaheim, CA",FALSE,Texas Tech
+2019,8,Virginia,Purdue,-2,5.8,3,-4,0.18,8,218.252549,"Louisville, KY",TRUE,Virginia
+2019,8,Auburn,Kentucky,3,-1.9,-3,2,-0.15,2,127.7977264,"Kansas City, MO",TRUE,Auburn
+2019,4,Michigan State,Texas Tech,-1,1,4,0,0.05,-21,-448.4851006,"Minneapolis, MN",FALSE,Texas Tech
+2019,4,Virginia,Auburn,-4,6.8,9,-4,0.3,-9,-49.63229928,"Minneapolis, MN",TRUE,Virginia
+2019,2,Texas Tech,Virginia,2,-4.4,-3,3,-0.15,11,11.16994982,"Minneapolis, MN",FALSE,Virginia
+2018,64,Virginia,UMBC,-15,19.5,16,-1,0.64,-136,-131.1885323,"Charlotte, NC",FALSE,UMBC
+2018,64,Creighton,Kansas State,-1,3,-6,-1,-0.22,17,14.94735562,"Charlotte, NC",FALSE,Kansas State
+2018,64,Kentucky,Davidson,-7,2.2,6,4,0.18,-70,-257.8347891,"Boise, ID",TRUE,Kentucky
+2018,64,Arizona,Buffalo,-9,5.2,2,-2,0.4,-73,-1024.457805,"Boise, ID",FALSE,Buffalo
+2018,64,Miami (FL),Loyola (IL),-5,1,3,6,-0.3,-66,308.3729731,"Dallas, TX",FALSE,Loyola (IL)
+2018,64,Tennessee,Wright State,-11,12.7,7,5,0.5,-217,-86.56313099,"Dallas, TX",TRUE,Tennessee
+2018,64,Nevada,Texas,-3,1.2,-2,-11,0.27,80,1057.832941,"Nashville, TN",TRUE,Nevada
+2018,64,Cincinnati,Georgia State,-13,14.1,3,4,0.38,-184,26.58690661,"Nashville, TN",TRUE,Cincinnati
+2018,64,Xavier,Texas Southern,-15,18.3,10,-4,0.71,-69,-425.7411587,"Nashville, TN",TRUE,Xavier
+2018,64,Missouri,Florida State,-1,-2.4,-6,-2,-0.17,34,-62.18882155,"Nashville, TN",FALSE,Florida State
+2018,64,Ohio State,South Dakota State,-7,7.9,4,6,0.31,-124,753.6333338,"Boise, ID",TRUE,Ohio State
+2018,64,Gonzaga,UNC Greensboro,-9,9.3,4,2,0.23,-89,-1697.16092,"Boise, ID",TRUE,Gonzaga
+2018,64,Houston,San Diego State,-5,4.6,1,1,0,-26,-605.8252765,"Wichita, KS",TRUE,Houston
+2018,64,Michigan,Montana,-11,11.4,12,3,0.71,-218,-273.34109,"Wichita, KS",TRUE,Michigan
+2018,64,Texas A&M,Providence,-3,3.1,0,-3,0.08,-16,268.2580925,"Charlotte, NC",TRUE,Texas A&M
+2018,64,North Carolina,Lipscomb,-13,16.3,15,6,0.6,-168,-228.6209475,"Charlotte, NC",TRUE,North Carolina
+2018,64,Villanova,Radford,-15,22.7,16,-2,0.89,-182,14.70925943,"Pittsburgh, PA",TRUE,Villanova
+2018,64,Virginia Tech,Alabama,-1,2.6,-3,0,-0.09,28,-426.5644118,"Pittsburgh, PA",FALSE,Alabama
+2018,64,West Virginia,Murray State,-7,8.2,13,6,0.59,-237,459.1872249,"San Diego, CA",TRUE,West Virginia
+2018,64,Wichita State,Marshall,-9,11.1,1,3,-0.16,-47,-812.2290485,"San Diego, CA",FALSE,Marshall
+2018,64,Florida,St. Bonaventure,-5,4.1,5,2,0.12,-62,-309.7059836,"Dallas, TX",TRUE,Florida
+2018,64,Texas Tech,Stephen F. Austin,-11,11.6,13,6,0.62,-321,152.9996007,"Dallas, TX",TRUE,Texas Tech
+2018,64,Arkansas,Butler,-3,-2.4,-1,-2,0.01,31,495.0917779,"Detroit, MI",FALSE,Butler
+2018,64,Purdue,Cal State Fullerton,-13,19.7,11,3,0.69,-177,-1728.914653,"Detroit, MI",TRUE,Purdue
+2018,64,Kansas,Pennsylvania,-15,12.3,19,3,0.79,-251,-1060.965702,"Wichita, KS",TRUE,Kansas
+2018,64,Seton Hall,NC State,-1,2.5,-3,2,-0.15,-32,213.2776696,"Wichita, KS",TRUE,Seton Hall
+2018,64,Clemson,New Mexico State,-7,7.1,7,7,0,-159,1364.710852,"San Diego, CA",TRUE,Clemson
+2018,64,Auburn,Charleston,-9,8.9,5,1,0.56,-175,-314.2752431,"San Diego, CA",TRUE,Auburn
+2018,64,TCU,Syracuse,-5,2.9,-2,1,-0.09,2,666.1147515,"Detroit, MI",FALSE,Syracuse
+2018,64,Michigan State,Bucknell,-11,11.4,6,1,0.55,-115,-260.8075034,"Detroit, MI",TRUE,Michigan State
+2018,64,Rhode Island,Oklahoma,-3,1.1,-4,-5,-0.03,73,-565.709615,"Pittsburgh, PA",TRUE,Rhode Island
+2018,64,Duke,Iona,-13,16.7,14,3,0.7,-168,-12.51840357,"Pittsburgh, PA",TRUE,Duke
+2018,32,UMBC,Kansas State,7,-8.5,-8,-8,-0.2,137,-544.0830088,"Charlotte, NC",FALSE,Kansas State
+2018,32,Kentucky,Buffalo,-8,6.2,7,5,0.27,-129,-172.041453,"Boise, ID",TRUE,Kentucky
+2018,32,Loyola (IL),Tennessee,8,-4.8,-2,-6,0.33,102,36.27007733,"Dallas, TX",TRUE,Loyola (IL)
+2018,32,Nevada,Cincinnati,5,-7.3,1,-2,0.19,8,1570.11719,"Nashville, TN",TRUE,Nevada
+2018,32,Xavier,Florida State,-8,3.2,0,-5,0.18,20,-181.2485002,"Nashville, TN",FALSE,Florida State
+2018,32,Ohio State,Gonzaga,1,-1.6,-1,5,-0.25,-55,1433.67007,"Boise, ID",FALSE,Gonzaga
+2018,32,Houston,Michigan,3,-1.7,-8,-1,-0.21,39,-228.8903373,"Wichita, KS",FALSE,Michigan
+2018,32,Texas A&M,North Carolina,5,-5.3,-8,-2,-0.13,5,839.7989362,"Charlotte, NC",TRUE,Texas A&M
+2018,32,Villanova,Alabama,-8,14.2,7,-8,0.42,-4,-403.6378068,"Pittsburgh, PA",TRUE,Villanova
+2018,32,West Virginia,Marshall,-8,12.7,10,7,-0.01,-103,134.9122104,"San Diego, CA",TRUE,West Virginia
+2018,32,Florida,Texas Tech,3,-3,-4,-1,-0.06,11,577.6288981,"Dallas, TX",FALSE,Texas Tech
+2018,32,Butler,Purdue,8,-6.6,-4,6,-0.3,-29,0.782041701,"Detroit, MI",FALSE,Purdue
+2018,32,Kansas,Seton Hall,-7,4.8,13,-5,0.41,-16,-1112.75394,"Wichita, KS",TRUE,Kansas
+2018,32,Clemson,Auburn,1,1.8,4,5,-0.06,-51,133.8488878,"San Diego, CA",TRUE,Clemson
+2018,32,Syracuse,Michigan State,8,-8.4,2,5,-0.11,-36,281.7319083,"Detroit, MI",TRUE,Syracuse
+2018,32,Rhode Island,Duke,5,-9.3,-11,-1,-0.32,69,133.1169197,"Pittsburgh, PA",FALSE,Duke
+2018,16,Kansas State,Kentucky,4,-3.7,1,2,-0.02,15,477.604933,"Atlanta, GA",TRUE,Kansas State
+2018,16,Loyola (IL),Nevada,4,-1.6,1,-2,0.26,37,-1406.576134,"Atlanta, GA",TRUE,Loyola (IL)
+2018,16,Florida State,Gonzaga,5,-3.9,5,5,-0.03,-70,1065.058666,"Los Angeles, CA",TRUE,Florida State
+2018,16,Michigan,Texas A&M,-4,4.3,5,-3,0.24,22,640.4203523,"Los Angeles, CA",TRUE,Michigan
+2018,16,Villanova,West Virginia,-4,7,3,-7,0.3,-1,-226.3561601,"Boston, MA",TRUE,Villanova
+2018,16,Texas Tech,Purdue,1,-3.9,2,3,-0.07,-27,943.3971182,"Boston, MA",TRUE,Texas Tech
+2018,16,Kansas,Clemson,-4,2.5,10,-4,0.29,-11,-687.2838151,"Omaha, NE",TRUE,Kansas
+2018,16,Syracuse,Duke,9,-10.4,-6,4,-0.26,16,31.73220555,"Omaha, NE",FALSE,Duke
+2018,8,Kansas State,Loyola (IL),-2,-0.4,4,10,-0.38,-88,187.4162928,"Atlanta, GA",FALSE,Loyola (IL)
+2018,8,Florida State,Michigan,6,-3.6,-2,4,-0.18,-8,51.27970553,"Los Angeles, CA",FALSE,Michigan
+2018,8,Villanova,Texas Tech,-2,7.7,3,-6,0.27,4,-1502.519985,"Boston, MA",TRUE,Villanova
+2018,8,Kansas,Duke,-1,-3.3,5,-1,0.09,-5,-829.4923777,"Omaha, NE",TRUE,Kansas
+2018,4,Loyola (IL),Michigan,8,-5.5,-7,-4,0.12,91,-161.4553545,"San Antonio, TX",FALSE,Michigan
+2018,4,Villanova,Kansas,0,6.3,-3,-3,0.1,8,817.7607645,"San Antonio, TX",TRUE,Villanova
+2018,2,Michigan,Villanova,2,-7.7,-4,3,-0.18,17,-290.3679621,"San Antonio, TX",FALSE,Villanova
+2017,64,Villanova,Mount St. Mary's,-15,22.2,10,-2,0.71,-115,33.78019644,"Buffalo, NY",TRUE,Villanova
+2017,64,Wisconsin,Virginia Tech,-1,6.2,2,-1,0.09,-2,132.1740452,"Buffalo, NY",TRUE,Wisconsin
+2017,64,Virginia,UNC Wilmington,-7,9.6,6,6,0.4,-136,235.6711674,"Orlando, FL",TRUE,Virginia
+2017,64,Florida,East Tennessee State,-9,12,7,7,0.44,-166,-444.1276469,"Orlando, FL",TRUE,Florida
+2017,64,Southern Methodist,USC,-5,7.7,2,-5,0.41,11,-1042.002279,"Tulsa, OK",FALSE,USC
+2017,64,Baylor,New Mexico State,-11,11.2,13,7,0.62,-314,-350.7864424,"Tulsa, OK",TRUE,Baylor
+2017,64,South Carolina,Marquette,-3,0.6,2,0,0.07,3,-543.7339763,"Greenville, SC",TRUE,South Carolina
+2017,64,Duke,Troy,-13,15.7,15,6,0.68,-199,-84.91834638,"Greenville, SC",TRUE,Duke
+2017,64,Gonzaga,South Dakota State,-15,21.4,10,-1,0.91,-98,-259.3398632,"Salt Lake City, UT",TRUE,Gonzaga
+2017,64,Northwestern,Vanderbilt,-1,-0.8,0,-1,0.02,21,-137.1882119,"Salt Lake City, UT",TRUE,Northwestern
+2017,64,Notre Dame,Princeton,-7,5.6,9,7,0.5,-126,110.2431773,"Buffalo, NY",TRUE,Notre Dame
+2017,64,West Virginia,Bucknell,-9,12.4,11,4,0.38,-188,65.14831367,"Buffalo, NY",TRUE,West Virginia
+2017,64,Maryland,Xavier,-5,-1.5,1,-6,0.23,45,10.49287075,"Orlando, FL",FALSE,Xavier
+2017,64,Florida State,Florida Gulf Coast,-11,8.5,11,2,0.65,-192,90.55497831,"Orlando, FL",TRUE,Florida State
+2017,64,Saint Mary's,VCU,-3,6.9,1,-1,0.14,21,-1268.259194,"Salt Lake City, UT",TRUE,Saint Mary's
+2017,64,Arizona,North Dakota,-13,13.3,5,4,0.5,-235,-283.2647563,"Salt Lake City, UT",TRUE,Arizona
+2017,64,Kansas,UC Davis,-15,21.3,16,4,0.76,-288,-1226.795884,"Tulsa, OK",TRUE,Kansas
+2017,64,Miami (FL),Michigan State,-1,1,-2,1,-0.1,7,410.5995393,"Tulsa, OK",FALSE,Michigan State
+2017,64,Iowa State,Nevada,-7,5.7,14,7,0.61,-153,-1367.150563,"Milwaukee, WI",TRUE,Iowa State
+2017,64,Purdue,Vermont,-9,7.1,10,2,0.63,-163,-552.3800978,"Milwaukee, WI",TRUE,Purdue
+2017,64,Creighton,Rhode Island,-5,1.6,1,2,-0.02,-28,-1260.146335,"Sacramento, CA",FALSE,Rhode Island
+2017,64,Oregon,Iona,-11,16.2,4,1,0.31,-95,-2120.497923,"Sacramento, CA",TRUE,Oregon
+2017,64,Michigan,Oklahoma State,-3,3.2,4,-4,0.21,15,-432.7329082,"Indianapolis, IN",TRUE,Michigan
+2017,64,Louisville,Jacksonville State,-13,18,10,7,0.53,-197,-298.8147049,"Indianapolis, IN",TRUE,Louisville
+2017,64,North Carolina,Texas Southern,-15,20.3,16,0,0.73,-141,-634.5891808,"Greenville, SC",TRUE,North Carolina
+2017,64,Arkansas,Seton Hall,-1,1.2,-2,-1,-0.07,27,65.11677893,"Greenville, SC",TRUE,Arkansas
+2017,64,Minnesota,Middle Tennessee State,-7,0.3,5,5,0,-140,-211.4166615,"Milwaukee, WI",FALSE,Middle Tennessee State
+2017,64,Butler,Winthrop,-9,9.6,13,1,0.76,-265,-427.7526697,"Milwaukee, WI",TRUE,Butler
+2017,64,Cincinnati,Kansas State,-5,4.6,-1,-6,0.16,60,642.1370226,"Sacramento, CA",TRUE,Cincinnati
+2017,64,UCLA,Kent State,-11,15.4,5,3,0.56,-123,-1766.170655,"Sacramento, CA",TRUE,UCLA
+2017,64,Dayton,Wichita State,-3,-5.5,3,0,0.3,-32,-517.3793795,"Indianapolis, IN",FALSE,Wichita State
+2017,64,Kentucky,Northern Kentucky,-13,17.7,10,3,0.67,-240,46.64429727,"Indianapolis, IN",TRUE,Kentucky
+2017,32,Villanova,Wisconsin,-7,5.3,0,-4,0.15,10,-264.5898434,"Buffalo, NY",FALSE,Wisconsin
+2017,32,Virginia,Florida,1,-0.9,-1,0,-0.04,-3,578.2626846,"Orlando, FL",FALSE,Florida
+2017,32,USC,Baylor,8,-7.3,-10,-1,-0.32,59,953.3712025,"Tulsa, OK",FALSE,Baylor
+2017,32,South Carolina,Duke,5,-6.3,-7,-1,-0.11,31,-110.6585026,"Greenville, SC",TRUE,South Carolina
+2017,32,Gonzaga,Northwestern,-7,11,4,-8,0.51,39,-707.4200324,"Salt Lake City, UT",TRUE,Gonzaga
+2017,32,Notre Dame,West Virginia,1,-3.7,-3,2,-0.13,-11,156.0885659,"Buffalo, NY",FALSE,West Virginia
+2017,32,Xavier,Florida State,8,-3.5,-5,5,-0.3,-16,537.0616465,"Orlando, FL",TRUE,Xavier
+2017,32,Saint Mary's,Arizona,5,1.9,-2,-1,-0.07,37,-17.82649874,"Salt Lake City, UT",FALSE,Arizona
+2017,32,Kansas,Michigan State,-8,8.7,9,-5,0.35,-5,-562.6971146,"Tulsa, OK",TRUE,Kansas
+2017,32,Iowa State,Purdue,1,-1.4,4,3,-0.02,-38,107.7786841,"Milwaukee, WI",FALSE,Purdue
+2017,32,Rhode Island,Oregon,8,-7,-1,1,-0.12,12,2227.241752,"Sacramento, CA",FALSE,Oregon
+2017,32,Michigan,Louisville,5,-2.2,2,-2,0.1,12,99.29552441,"Indianapolis, IN",TRUE,Michigan
+2017,32,North Carolina,Arkansas,-7,9.8,12,-2,0.4,-49,-467.8485879,"Greenville, SC",TRUE,North Carolina
+2017,32,Middle Tennessee State,Butler,8,-3.8,-11,-2,-0.26,169,259.7128756,"Milwaukee, WI",FALSE,Butler
+2017,32,Cincinnati,UCLA,3,-2,1,1,-0.01,5,1625.411699,"Sacramento, CA",FALSE,UCLA
+2017,32,Wichita State,Kentucky,8,-1.8,-9,-1,-0.47,85,470.322158,"Indianapolis, IN",FALSE,Kentucky
+2017,16,Wisconsin,Florida,4,-3.1,3,-1,0.12,15,-85.09057758,"New York, NY",FALSE,Florida
+2017,16,Baylor,South Carolina,-4,3.7,5,2,0.05,-29,840.2151636,"New York, NY",FALSE,South Carolina
+2017,16,Gonzaga,West Virginia,-3,2.8,-2,-6,0.28,57,-1503.181973,"San Jose, CA",TRUE,Gonzaga
+2017,16,Xavier,Arizona,9,-4.3,1,6,-0.15,-54,1301.573836,"San Jose, CA",TRUE,Xavier
+2017,16,Kansas,Purdue,-3,2.3,6,-1,0.13,-29,-375.7843332,"Kansas City, MO",TRUE,Kansas
+2017,16,Oregon,Michigan,-4,1.8,-7,-3,-0.07,42,900.9488417,"Kansas City, MO",TRUE,Oregon
+2017,16,North Carolina,Butler,-3,6.1,3,2,-0.03,-13,232.4774563,"Memphis, TN",TRUE,North Carolina
+2017,16,UCLA,Kentucky,1,-0.7,-5,-1,-0.11,39,1248.049975,"Memphis, TN",FALSE,Kentucky
+2017,8,Florida,South Carolina,-3,6.7,-1,3,-0.13,-30,298.4090121,"New York, NY",FALSE,South Carolina
+2017,8,Gonzaga,Xavier,-10,10,4,-10,0.56,69,-1267.710562,"San Jose, CA",TRUE,Gonzaga
+2017,8,Kansas,Oregon,-2,1,11,1,0.2,-50,-1468.606201,"Kansas City, MO",FALSE,Oregon
+2017,8,North Carolina,Kentucky,-1,1.9,6,1,0.06,-26,250.4666857,"Memphis, TN",TRUE,North Carolina
+2017,4,South Carolina,Gonzaga,6,-9,-2,5,-0.34,-43,771.8523039,"Phoenix, AZ",FALSE,Gonzaga
+2017,4,Oregon,North Carolina,2,-2,-11,-2,-0.17,56,-940.6106639,"Phoenix, AZ",FALSE,North Carolina
+2017,2,Gonzaga,North Carolina,0,1,-6,-5,0.18,77,-862.6091139,"Phoenix, AZ",FALSE,North Carolina
+2016,64,Kansas,Austin Peay,-15,21.8,14,1,0.78,-214,-281.8624648,"Des Moines, IA",TRUE,Kansas
+2016,64,Colorado,UConn,-1,-4.8,0,1,-0.03,24,-482.1063421,"Des Moines, IA",FALSE,UConn
+2016,64,Maryland,South Dakota State,-7,7,6,7,0.43,-186,1081.622633,"Spokane, WA",TRUE,Maryland
+2016,64,California,Hawaii,-9,8.9,3,3,0.11,-91,-2164.772034,"Spokane, WA",FALSE,Hawaii
+2016,64,Arizona,Wichita State,-5,0.4,-1,2,-0.21,-25,856.0550309,"Providence, RI",FALSE,Wichita State
+2016,64,Miami (FL),Buffalo,-11,11.7,14,1,0.74,-106,837.1239035,"Providence, RI",TRUE,Miami (FL)
+2016,64,Iowa,Temple,-3,7,3,1,0.08,-35,840.0435935,"Brooklyn, NY",TRUE,Iowa
+2016,64,Villanova,UNC Asheville,-13,17.2,11,2,0.73,-222,-500.3396657,"Brooklyn, NY",TRUE,Villanova
+2016,64,Oregon,Holy Cross,-15,20.7,9,0,0.82,-200,-1860.197102,"Spokane, WA",TRUE,Oregon
+2016,64,Saint Joseph's,Cincinnati,-1,-4.3,2,-1,0.14,12,406.2269525,"Spokane, WA",TRUE,Saint Joseph's
+2016,64,Baylor,Yale,-7,1.3,4,7,0.02,-91,1501.82216,"Providence, RI",FALSE,Yale
+2016,64,Duke,UNC Wilmington,-9,11.3,8,10,0.42,-168,-62.99122894,"Providence, RI",TRUE,Duke
+2016,64,Texas,Northern Iowa,-5,3.6,1,6,-0.23,-87,-200.5647883,"Oklahoma City, OK",FALSE,Northern Iowa
+2016,64,Texas A&M,Green Bay,-11,11.7,7,0,0.47,-78,-452.6950406,"Oklahoma City, OK",TRUE,Texas A&M
+2016,64,Oregon State,VCU,-3,-3.8,2,1,0.14,-46,373.4690875,"Oklahoma City, OK",FALSE,VCU
+2016,64,Oklahoma,Cal State Bakersfield,-13,12.7,13,4,0.68,-283,-1192.226234,"Oklahoma City, OK",TRUE,Oklahoma
+2016,64,North Carolina,Florida Gulf Coast,-15,19.7,14,2,0.74,-290,-641.2976039,"Raleigh, NC",TRUE,North Carolina
+2016,64,USC,Providence,-1,-0.1,-4,-1,-0.17,33,1673.308572,"Raleigh, NC",FALSE,Providence
+2016,64,Indiana,Chattanooga,-7,11.6,8,3,0.31,-180,-229.8406922,"Des Moines, IA",TRUE,Indiana
+2016,64,Kentucky,Stony Brook,-9,8.1,5,1,0.35,-173,-520.1193616,"Des Moines, IA",TRUE,Kentucky
+2016,64,Notre Dame,Michigan,-5,0.6,5,-3,0.25,-19,125.8851011,"Brooklyn, NY",TRUE,Notre Dame
+2016,64,West Virginia,Stephen F. Austin,-11,7,5,7,0.07,-262,-985.3781978,"Brooklyn, NY",FALSE,Stephen F. Austin
+2016,64,Wisconsin,Pittsburgh,-3,-2.5,3,-2,0.16,-8,-250.6970944,"St. Louis, MO",TRUE,Wisconsin
+2016,64,Xavier,Weber State,-13,11.3,8,3,0.62,-263,-852.0277065,"St. Louis, MO",TRUE,Xavier
+2016,64,Virginia,Hampton,-15,24.3,15,3,0.71,-278,0.314610317,"Raleigh, NC",TRUE,Virginia
+2016,64,Texas Tech,Butler,-1,-4.2,-1,3,-0.13,-17,835.7718681,"Raleigh, NC",FALSE,Butler
+2016,64,Purdue,Little Rock,-7,7.8,8,6,0.06,-115,177.9952033,"Denver, CO",FALSE,Little Rock
+2016,64,Iowa State,Iona,-9,8.6,5,8,0.33,-131,-1024.060861,"Denver, CO",TRUE,Iowa State
+2016,64,Seton Hall,Gonzaga,-5,-1.5,0,1,-0.03,-50,783.4981555,"Denver, CO",FALSE,Gonzaga
+2016,64,Utah,Fresno State,-11,7.6,5,4,0.42,-63,-455.9812217,"Denver, CO",TRUE,Utah
+2016,64,Dayton,Syracuse,-3,-2,-4,-10,0.27,78,-463.6467737,"St. Louis, MO",FALSE,Syracuse
+2016,64,Michigan State,Middle Tennessee State,-13,17.3,8,2,0.36,-132,128.9974668,"St. Louis, MO",FALSE,Middle Tennessee State
+2016,32,Kansas,UConn,-8,5,10,-3,0.42,-41,-899.8470026,"Des Moines, IA",TRUE,Kansas
+2016,32,Maryland,Hawaii,-8,10.4,5,6,0.1,-128,-787.547485,"Spokane, WA",TRUE,Maryland
+2016,32,Wichita State,Miami (FL),8,0.9,-11,-2,-0.24,98,178.3068152,"Providence, RI",FALSE,Miami (FL)
+2016,32,Iowa,Villanova,5,-7,-3,4,-0.23,-8,832.0803525,"Brooklyn, NY",FALSE,Villanova
+2016,32,Oregon,Saint Joseph's,-7,4.3,2,-2,0.18,-20,-1776.851988,"Spokane, WA",TRUE,Oregon
+2016,32,Yale,Duke,8,-5.1,-6,-7,-0.09,97,-484.6434297,"Providence, RI",FALSE,Duke
+2016,32,Northern Iowa,Texas A&M,8,-7,-2,-1,0,35,213.2314027,"Oklahoma City, OK",FALSE,Texas A&M
+2016,32,VCU,Oklahoma,8,-4.3,-12,1,-0.55,86,1102.406511,"Oklahoma City, OK",FALSE,Oklahoma
+2016,32,North Carolina,Providence,-8,11.3,7,-3,0.27,-19,-544.9720654,"Raleigh, NC",TRUE,North Carolina
+2016,32,Indiana,Kentucky,1,-0.4,3,1,0.04,18,-135.065974,"Des Moines, IA",TRUE,Indiana
+2016,32,Notre Dame,Stephen F. Austin,-8,1.5,8,7,0.17,-269,-665.1139295,"Brooklyn, NY",TRUE,Notre Dame
+2016,32,Wisconsin,Xavier,5,-4.3,1,2,-0.06,-37,-0.150108698,"St. Louis, MO",TRUE,Wisconsin
+2016,32,Virginia,Butler,-8,6.5,10,-1,0.29,-37,-339.4785134,"Raleigh, NC",TRUE,Virginia
+2016,32,Little Rock,Iowa State,8,-4.7,-4,-9,0.17,145,162.9297229,"Denver, CO",FALSE,Iowa State
+2016,32,Gonzaga,Utah,8,2.4,1,0,0.04,42,451.8659268,"Denver, CO",TRUE,Gonzaga
+2016,32,Syracuse,Middle Tennessee State,-5,9.7,7,10,0.07,-173,511.2938219,"St. Louis, MO",TRUE,Syracuse
+2016,16,Kansas,Maryland,-4,5.2,8,-4,0.35,-25,48.19014099,"Louisville, KY",TRUE,Kansas
+2016,16,Miami (FL),Villanova,1,-6.4,3,1,0.01,-22,349.6392366,"Louisville, KY",FALSE,Villanova
+2016,16,Oregon,Duke,-3,-2.6,1,-9,0.4,52,-1439.156293,"Anaheim, CA",TRUE,Oregon
+2016,16,Texas A&M,Oklahoma,1,-1.9,-5,-2,-0.01,54,108.7315937,"Anaheim, CA",FALSE,Oklahoma
+2016,16,North Carolina,Indiana,-4,2.9,5,0,0.1,-48,-256.1558379,"Philadelphia, PA",TRUE,North Carolina
+2016,16,Notre Dame,Wisconsin,-1,1.2,0,2,-0.06,-12,-173.5302306,"Philadelphia, PA",TRUE,Notre Dame
+2016,16,Virginia,Iowa State,-3,5.8,10,-4,0.38,-6,248.2141243,"Chicago, IL",TRUE,Virginia
+2016,16,Gonzaga,Syracuse,1,1.5,-2,-5,0.06,77,910.8815392,"Chicago, IL",FALSE,Syracuse
+2016,8,Kansas,Villanova,-1,-1.4,3,0,0.05,-17,-45.18488445,"Louisville, KY",FALSE,Villanova
+2016,8,Oregon,Oklahoma,-1,-1.9,-4,-4,0.14,58,-409.7196862,"Anaheim, CA",FALSE,Oklahoma
+2016,8,North Carolina,Notre Dame,-5,7.7,5,-4,0.24,5,-240.0946051,"Philadelphia, PA",TRUE,North Carolina
+2016,8,Virginia,Syracuse,-9,7.6,7,-6,0.31,-11,-40.75389689,"Chicago, IL",FALSE,Syracuse
+2016,4,Villanova,Oklahoma,0,5,-2,-2,0.05,25,941.681625,"Houston, TX",TRUE,Villanova
+2016,4,North Carolina,Syracuse,-9,7.7,6,-7,0.34,-1,-365.0452432,"Houston, TX",TRUE,North Carolina
+2016,2,Villanova,North Carolina,1,1.2,-3,-1,-0.01,16,296.5713055,"Houston, TX",TRUE,Villanova
+2015,64,Kentucky,Hampton,-15,27.7,16,-3,0.94,-206,-449.0224848,"Louisville, KY",TRUE,Kentucky
+2015,64,Cincinnati,Purdue,-1,-1.2,-4,-5,0.03,50,-80.22911899,"Louisville, KY",TRUE,Cincinnati
+2015,64,West Virginia,Buffalo,-7,4,7,6,0.44,-96,-131.0926743,"Columbus, OH",TRUE,West Virginia
+2015,64,Maryland,Valparaiso,-9,4.8,9,6,0.56,-259,93.43928106,"Columbus, OH",TRUE,Maryland
+2015,64,Butler,Texas,-5,0.3,4,-3,0.22,9,-890.2394449,"Pittsburgh, PA",TRUE,Butler
+2015,64,Notre Dame,Northeastern,-11,13.2,11,4,0.21,-126,-140.0392857,"Pittsburgh, PA",TRUE,Notre Dame
+2015,64,Wichita State,Indiana,-3,4,-3,-9,0.17,65,-266.8649067,"Omaha, NE",TRUE,Wichita State
+2015,64,Kansas,New Mexico State,-13,9.9,14,4,0.67,-214,-691.7457707,"Omaha, NE",TRUE,Kansas
+2015,64,Wisconsin,Coastal Carolina,-15,19.1,16,0,0.89,-308,-698.3088788,"Omaha, NE",TRUE,Wisconsin
+2015,64,Oregon,Oklahoma State,-1,-5.9,-1,-3,0.04,37,1024.676663,"Omaha, NE",TRUE,Oregon
+2015,64,Arkansas,Wofford,-7,5.8,4,3,0.2,-133,504.461264,"Jacksonville, FL",TRUE,Arkansas
+2015,64,North Carolina,Harvard,-9,11.7,10,9,0.48,-126,-601.9313433,"Jacksonville, FL",TRUE,North Carolina
+2015,64,Xavier,Ole Miss,-5,1.2,4,2,0.08,-45,93.1538859,"Jacksonville, FL",TRUE,Xavier
+2015,64,Baylor,Georgia State,-11,5.9,7,5,0.25,-143,636.6842729,"Jacksonville, FL",FALSE,Georgia State
+2015,64,VCU,Ohio State,-3,-4.3,0,-2,0.06,20,341.5746462,"Portland, OR",FALSE,Ohio State
+2015,64,Arizona,Texas Southern,-13,22.6,4,-5,0.69,-31,-713.6592246,"Portland, OR",TRUE,Arizona
+2015,64,Villanova,Lafayette,-15,19.6,14,-1,0.88,-149,-4.165595621,"Pittsburgh, PA",TRUE,Villanova
+2015,64,NC State,LSU,-1,2.6,-1,7,-0.32,-59,-606.1499301,"Pittsburgh, PA",TRUE,NC State
+2015,64,Northern Iowa,Wyoming,-7,8.9,4,1,0.57,-82,560.4146507,"Seattle, WA",TRUE,Northern Iowa
+2015,64,Louisville,UC Irvine,-9,9.5,9,7,0.5,-159,955.772383,"Seattle, WA",TRUE,Louisville
+2015,64,Providence,Dayton,-5,1,2,5,-0.13,-58,551.3630446,"Columbus, OH",FALSE,Dayton
+2015,64,Oklahoma,Albany,-11,11.5,11,5,0.61,-240,339.9661634,"Columbus, OH",TRUE,Oklahoma
+2015,64,Michigan State,Georgia,-3,5.1,9,3,0.25,-41,388.429718,"Charlotte, NC",TRUE,Michigan State
+2015,64,Virginia,Belmont,-13,17.6,10,1,0.71,-133,-105.9825452,"Charlotte, NC",TRUE,Virginia
+2015,64,Duke,Robert Morris,-15,22.9,14,1,0.78,-203,-247.9937281,"Charlotte, NC",TRUE,Duke
+2015,64,San Diego State,St. John's,-1,-1.5,-4,-5,0.03,40,1533.855274,"Charlotte, NC",TRUE,San Diego State
+2015,64,Utah,Stephen F. Austin,-7,7.4,4,0,0.5,-161,-1147.76199,"Portland, OR",TRUE,Utah
+2015,64,Georgetown,Eastern Washington,-9,5.6,5,9,0.02,-256,2072.905795,"Portland, OR",TRUE,Georgetown
+2015,64,Southern Methodist,UCLA,-5,5,-2,-3,-0.2,38,-1114.070958,"Louisville, KY",FALSE,UCLA
+2015,64,Iowa State,UAB,-11,13.3,11,2,0.32,-122,171.6895459,"Louisville, KY",FALSE,UAB
+2015,64,Iowa,Davidson,-3,1.8,4,4,0.04,-59,-714.5321532,"Seattle, WA",TRUE,Iowa
+2015,64,Gonzaga,North Dakota State,-13,17.5,6,0,0.67,-140,-965.0398906,"Seattle, WA",TRUE,Gonzaga
+2015,32,Kentucky,Cincinnati,-7,15.2,12,-3,0.44,-40,-26.09014419,"Louisville, KY",TRUE,Kentucky
+2015,32,West Virginia,Maryland,1,1,-2,2,-0.12,-13,-166.90668,"Columbus, OH",TRUE,West Virginia
+2015,32,Butler,Notre Dame,3,-3,-5,5,-0.3,5,-9.602910287,"Pittsburgh, PA",FALSE,Notre Dame
+2015,32,Wichita State,Kansas,5,-0.7,-11,-4,-0.17,96,91.9176778,"Omaha, NE",TRUE,Wichita State
+2015,32,Wisconsin,Oregon,-7,18.1,12,-4,0.49,-51,-1020.094441,"Omaha, NE",TRUE,Wisconsin
+2015,32,Arkansas,North Carolina,1,-7.8,-5,-5,-0.03,58,407.8285039,"Jacksonville, FL",FALSE,North Carolina
+2015,32,Xavier,Georgia State,-8,1.8,8,5,0.28,-138,343.3622882,"Jacksonville, FL",TRUE,Xavier
+2015,32,Ohio State,Arizona,8,-3.3,2,9,-0.42,-42,909.7410736,"Portland, OR",FALSE,Arizona
+2015,32,Villanova,NC State,-7,8.9,8,-8,0.5,47,-80.55808996,"Pittsburgh, PA",FALSE,NC State
+2015,32,Northern Iowa,Louisville,1,-3,-5,-6,0.07,99,-457.6981976,"Seattle, WA",FALSE,Louisville
+2015,32,Dayton,Oklahoma,8,-4.5,-5,-3,-0.01,70,-785.5440629,"Columbus, OH",FALSE,Oklahoma
+2015,32,Michigan State,Virginia,5,-5.9,2,6,-0.16,-24,322.1296828,"Charlotte, NC",TRUE,Michigan State
+2015,32,Duke,San Diego State,-7,14.7,11,1,0.28,-75,-1954.820171,"Charlotte, NC",TRUE,Duke
+2015,32,Utah,Georgetown,1,5.8,-2,-7,0.15,57,-1717.06721,"Portland, OR",TRUE,Utah
+2015,32,UCLA,UAB,-3,4.3,0,5,-0.2,-78,1514.280292,"Louisville, KY",TRUE,UCLA
+2015,32,Iowa,Gonzaga,5,-4.3,2,7,-0.23,-85,1331.465572,"Seattle, WA",FALSE,Gonzaga
+2015,16,Kentucky,West Virginia,-4,12.4,9,-8,0.5,25,123.2686482,"Cleveland, OH",TRUE,Kentucky
+2015,16,Notre Dame,Wichita State,-4,2.1,9,2,0.21,-78,-635.8678386,"Cleveland, OH",TRUE,Notre Dame
+2015,16,Wisconsin,North Carolina,-3,3.9,6,-9,0.41,9,-542.3193128,"Los Angeles, CA",TRUE,Wisconsin
+2015,16,Xavier,Arizona,4,-10.1,4,7,-0.3,-58,1445.833747,"Los Angeles, CA",FALSE,Arizona
+2015,16,NC State,Louisville,4,-4.4,-3,1,-0.12,3,-85.66215568,"Syracuse, NY",FALSE,Louisville
+2015,16,Oklahoma,Michigan State,-4,0.2,-1,-3,0.06,4,831.5910536,"Syracuse, NY",FALSE,Michigan State
+2015,16,Duke,Utah,-4,6.2,10,0,0.28,-70,-153.5022752,"Houston, TX",TRUE,Duke
+2015,16,UCLA,Gonzaga,9,-11.6,-4,5,-0.47,-43,-323.5912814,"Houston, TX",FALSE,Gonzaga
+2015,8,Kentucky,Notre Dame,-2,8.1,4,-4,0.23,20,41.85399392,"Cleveland, OH",TRUE,Kentucky
+2015,8,Wisconsin,Arizona,-1,2.1,11,1,0.06,-66,1219.668893,"Los Angeles, CA",TRUE,Wisconsin
+2015,8,Louisville,Michigan State,-3,1.1,-3,-1,-0.05,2,178.8256583,"Syracuse, NY",FALSE,Michigan State
+2015,8,Duke,Gonzaga,-1,6,8,1,0.11,-92,-656.9040605,"Houston, TX",TRUE,Duke
+2015,4,Kentucky,Wisconsin,0,2.2,0,-1,0.05,30,-133.418745,"Indianapolis, IN",FALSE,Wisconsin
+2015,4,Michigan State,Duke,6,-8.7,-2,6,-0.23,-1,-251.6112964,"Indianapolis, IN",FALSE,Duke
+2015,2,Wisconsin,Duke,0,-0.7,2,-2,0.11,6,-190.6370179,"Indianapolis, IN",FALSE,Duke
+2014,64,Florida,Albany,-15,20.2,13,1,0.81,-215,-964.879397,"Orlando, FL",TRUE,Florida
+2014,64,Colorado,Pittsburgh,-1,-8.7,0,1,-0.03,3,744.9625343,"Orlando, FL",FALSE,Pittsburgh
+2014,64,VCU,Stephen F. Austin,-7,7.5,4,4,0,-248,933.1172805,"San Diego, CA",FALSE,Stephen F. Austin
+2014,64,UCLA,Tulsa,-9,9.6,4,-1,0.36,-57,-1112.932859,"San Diego, CA",TRUE,UCLA
+2014,64,Ohio State,Dayton,-5,5.2,-1,1,-0.1,-23,-57.46067944,"Buffalo, NY",FALSE,Dayton
+2014,64,Syracuse,Western Michigan,-11,11.5,10,1,0.77,-117,-208.6115709,"Buffalo, NY",TRUE,Syracuse
+2014,64,New Mexico,Stanford,-3,1.7,-5,-5,0,75,-794.0999661,"St. Louis, MO",FALSE,Stanford
+2014,64,Kansas,Eastern Kentucky,-13,11.8,11,2,0.69,-233,-58.11894069,"St. Louis, MO",TRUE,Kansas
+2014,64,Virginia,Coastal Carolina,-15,18.2,12,4,0.67,-281,13.10745908,"Raleigh, NC",TRUE,Virginia
+2014,64,Memphis,George Washington,-1,0.9,2,3,0,-19,408.9413249,"Raleigh, NC",TRUE,Memphis
+2014,64,Cincinnati,Harvard,-7,0.3,5,5,0.13,-69,-518.2387083,"Spokane, WA",FALSE,Harvard
+2014,64,Michigan State,Delaware,-9,11.3,9,3,0.56,-124,-500.8269666,"Spokane, WA",TRUE,Michigan State
+2014,64,North Carolina,Providence,-5,3.2,3,-5,0.26,-6,-519.8205758,"San Antonio, TX",TRUE,North Carolina
+2014,64,Iowa State,North Carolina Central,-11,6,9,1,0.64,-293,-313.7257278,"San Antonio, TX",TRUE,Iowa State
+2014,64,UConn,Saint Joseph's,-3,5.3,6,0,0.17,-50,67.78209498,"Buffalo, NY",TRUE,UConn
+2014,64,Villanova,Milwaukee,-13,15.7,10,2,0.71,-110,-192.6494262,"Buffalo, NY",TRUE,Villanova
+2014,64,Arizona,Weber State,-15,15.3,11,2,0.73,-249,-279.2581291,"San Diego, CA",TRUE,Arizona
+2014,64,Gonzaga,Oklahoma State,-1,-1.6,-1,-7,0.17,60,-137.1167184,"San Diego, CA",TRUE,Gonzaga
+2014,64,Oklahoma,North Dakota State,-7,0.3,4,5,0.09,-112,377.6377855,"Spokane, WA",FALSE,North Dakota State
+2014,64,San Diego State,New Mexico State,-9,6.3,3,0,0.3,-108,-172.7380373,"Spokane, WA",TRUE,San Diego State
+2014,64,Baylor,Nebraska,-5,5.3,4,-1,0.22,15,-626.2847058,"San Antonio, TX",TRUE,Baylor
+2014,64,Creighton,Louisiana,-11,11.7,7,4,0.3,-120,435.0585372,"San Antonio, TX",TRUE,Creighton
+2014,64,Oregon,Brigham Young,-3,3.8,4,-3,0.39,-27,514.8665045,"Milwaukee, WI",TRUE,Oregon
+2014,64,Wisconsin,American University,-13,14.2,11,2,0.73,-208,-567.3927883,"Milwaukee, WI",TRUE,Wisconsin
+2014,64,Wichita State,Cal Poly,-15,16.7,2,-3,0.67,42,-1298.479276,"St. Louis, MO",TRUE,Wichita State
+2014,64,Kentucky,Kansas State,-1,6.5,1,-1,0.07,-38,-27.79379725,"St. Louis, MO",TRUE,Kentucky
+2014,64,Saint Louis,NC State,-7,3.7,-2,-5,0.06,60,336.6981116,"Orlando, FL",TRUE,Saint Louis
+2014,64,Louisville,Manhattan,-9,13.2,7,4,0.54,-73,-245.6832971,"Orlando, FL",TRUE,Louisville
+2014,64,Massachusetts,Tennessee,-5,-5.4,0,-2,0.08,38,254.0264734,"Raleigh, NC",FALSE,Tennessee
+2014,64,Duke,Mercer,-11,11.9,8,4,0.27,-196,-338.8206731,"Raleigh, NC",FALSE,Mercer
+2014,64,Texas,Arizona State,-3,-1.8,4,3,0.09,-44,-422.2253657,"Milwaukee, WI",TRUE,Texas
+2014,64,Michigan,Wofford,-13,16.1,8,4,0.53,-224,-426.1509934,"Milwaukee, WI",TRUE,Michigan
+2014,32,Florida,Pittsburgh,-8,3.8,8,-6,0.45,-29,-727.8730411,"Orlando, FL",TRUE,Florida
+2014,32,Stephen F. Austin,UCLA,8,-8.3,-4,-4,0,273,1199.463216,"San Diego, CA",FALSE,UCLA
+2014,32,Dayton,Syracuse,8,-5.7,-4,1,-0.17,29,214.5695212,"Buffalo, NY",TRUE,Dayton
+2014,32,Stanford,Kansas,8,-8.4,-3,3,-0.19,17,1461.047769,"St. Louis, MO",TRUE,Stanford
+2014,32,Virginia,Memphis,-7,6.4,6,-3,0.27,-43,-486.7127126,"Raleigh, NC",TRUE,Virginia
+2014,32,Harvard,Michigan State,8,-3.6,-8,-5,-0.23,142,630.9126979,"Spokane, WA",FALSE,Michigan State
+2014,32,North Carolina,Iowa State,3,-0.9,0,0,0,10,305.3638571,"San Antonio, TX",FALSE,Iowa State
+2014,32,UConn,Villanova,5,-3.5,2,2,-0.04,-12,76.8144787,"Buffalo, NY",TRUE,UConn
+2014,32,Arizona,Gonzaga,-7,4.9,9,1,0.33,-74,-659.125828,"San Diego, CA",TRUE,Arizona
+2014,32,North Dakota State,San Diego State,8,-4.1,-3,-2,-0.17,56,-60.47982574,"Spokane, WA",FALSE,San Diego State
+2014,32,Baylor,Creighton,3,-3.8,-1,0,-0.03,-7,-662.4606071,"San Antonio, TX",TRUE,Baylor
+2014,32,Oregon,Wisconsin,5,-4.4,-6,1,-0.23,59,1677.746385,"Milwaukee, WI",FALSE,Wisconsin
+2014,32,Wichita State,Kentucky,-7,-0.3,-5,-7,0.2,150,74.94718227,"St. Louis, MO",FALSE,Kentucky
+2014,32,Saint Louis,Louisville,1,-10.2,-3,-1,-0.1,-3,154.5035913,"Orlando, FL",FALSE,Louisville
+2014,32,Tennessee,Mercer,-3,7.6,4,5,0.09,-184,-59.09400788,"Raleigh, NC",TRUE,Tennessee
+2014,32,Texas,Michigan,5,-7.4,-1,1,-0.06,20,812.4507525,"Milwaukee, WI",FALSE,Michigan
+2014,16,Florida,UCLA,-3,5.4,8,-2,0.31,-42,-1033.107984,"Memphis, TN",TRUE,Florida
+2014,16,Dayton,Stanford,1,1.2,-2,-4,0.1,57,-1342.048493,"Memphis, TN",TRUE,Dayton
+2014,16,Virginia,Michigan State,-3,1,3,-1,0.11,7,-257.6088575,"New York, NY",FALSE,Michigan State
+2014,16,Iowa State,UConn,-4,0.2,-3,-1,-0.03,-20,908.2352489,"New York, NY",FALSE,UConn
+2014,16,Arizona,San Diego State,-3,4.4,7,0,0.23,-63,339.5672327,"Anaheim, CA",TRUE,Arizona
+2014,16,Baylor,Wisconsin,4,-4.8,-4,4,-0.26,25,-447.4717756,"Anaheim, CA",FALSE,Wisconsin
+2014,16,Kentucky,Louisville,4,-5.2,0,2,-0.07,-91,35.89233243,"Indianapolis, IN",TRUE,Kentucky
+2014,16,Tennessee,Michigan,9,-1.2,-3,0,-0.11,33,75.50108018,"Indianapolis, IN",FALSE,Michigan
+2014,8,Florida,Dayton,-10,10.6,7,-1,0.21,-60,129.7224037,"Memphis, TN",TRUE,Florida
+2014,8,Michigan State,UConn,-3,2.7,-3,1,-0.11,-22,446.6728779,"New York, NY",FALSE,UConn
+2014,8,Arizona,Wisconsin,-1,1.9,0,0,0,21,-1237.595485,"Anaheim, CA",FALSE,Wisconsin
+2014,8,Kentucky,Michigan,6,-0.8,-1,1,-0.06,3,-63.40319198,"Indianapolis, IN",TRUE,Kentucky
+2014,4,Florida,UConn,-6,6.5,1,-3,0.14,-11,-601.9555652,"Arlington, TX",FALSE,UConn
+2014,4,Wisconsin,Kentucky,-6,0.9,4,-4,0.26,-1,28.79343671,"Arlington, TX",FALSE,Kentucky
+2014,2,UConn,Kentucky,-1,-2.2,5,-2,0.2,23,696.8960627,"Arlington, TX",TRUE,UConn
