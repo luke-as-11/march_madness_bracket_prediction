@@ -5,5 +5,5 @@
 - Structured yearly data to simulate a 63 match tournament with each entry representing a match 
 - Visualized the impact of the difference between team statistics on match outcomes
 - Trained a neural network model to predict win probability
-- Gained obtainable results to verify model's performance
+- Gained obtainable results to verify model's performance where 73% of game outcomes were predicted correctly
 - Learned about the bias in the data and how to fine-tune neural network models
